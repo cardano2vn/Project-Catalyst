@@ -70,9 +70,12 @@ Bio: PhD., lecturer at the University of Transport and Communications
 
 # RACI matrix
 
+Detail RACI Matrix could be accessible at [here](https://docs.google.com/spreadsheets/d/1pB3HAGTCTIEqT3-x1qekIIMureze5mCKxS7Y03XTGLg/edit#gid=535036730)
 
-# Self-sovereign Identity workshops schedule:
-# Governance Framework workshops schedule:
-# AP101 document will be published on github:
+![image](https://github.com/cardano2vn/fund11/assets/107251579/b5e747fc-dd83-43dd-8b70-f83ca14fb577)
+
+# Self-sovereign Identity workshops schedule: ⚠️
+# Governance Framework workshops schedule: ⚠️
+# AP101 document will be published on github:  ⚠️
 # Design document will be published on github ⚠️
 # The approval document from University  ⚠️
