@@ -71,7 +71,9 @@ Meeting location: Faculty of Information Technology - University of Transport.
 ## Blockchain club confirmation letter (NEED INPUT)
 ## Club designing materials:(NEED INPUT)
 ## Club planning document:
+This is our plan for 09 labs
 
-<object data="[/Milestone1/Lab%20Design.pdf](/Milestone1/Lab%20Design.pdf " type="application/pdf" width="100">
+<iframe src="Lab%20Design.pdf" width="640" height="480"></iframe>
+ 
  
 ## Club Regulation docs (NEED INPUT)
