@@ -6,31 +6,44 @@
 
 ## Project team profiles:
 **Hoang Van Thong**
+
 Role: Curriculum Quality Assurance Officer
+
 Bio: PhD, Lecturer (since 2001) and Dean of Faculty of Information Technology (since 2020), University of Transportation and Communications,
 
 **Cao Thi Luyen,**
+
 Role: Curriculum Development member
+
 Bio: Lecturer (since 2001) of the Faculty of Information Technology, University of Transportation and Communications.
 
 **Nguyen Kim Sao**
+
 Role: Mentors, Community Moderator
+
 Bio: PhD., lecturer at the University of Transport and Communications
 
 **Nguyen Duc Du**
+
 Role: Curriculum Development member, Event Organizer
+
 Bio: PhD., lecturer at the University of Transport and Communications
 
 **Nguyen Anh Tien**
+
 Role: Project Manager, Product Owner, Blockchain Developer
+
 Bio: the Founder of the VILAI stake pool, and a computer science expert working in the Cardano/Crypto space since 2018. Cardano Ambassador,
 
 **Nguyen Van Hieu**
+
 Role: Mentors,Curriculum Development member
+
 Bio: Founder of HADA stake pool, member of Plutus Pioneer Program, Lead Technical Support at many successful startups.
 
 
 ## Project meeting minutes:
+
 We conducted a project kick-off meeting on** Saturday - March 9, 2024**
 Meeting location: Faculty of Information Technology - University of Transport.
 
@@ -59,5 +72,6 @@ Meeting location: Faculty of Information Technology - University of Transport.
 ## Club designing materials:(NEED INPUT)
 ## Club planning document:
 
-<object data="[/blog/images/xxx.pdf](https://github.com/cardano2vn/fund11/blob/main/1100007%3ACardano%20developer%20club%20in%20Universities/Milestone1/Lab%20Design.pdf)https://github.com/cardano2vn/fund11/blob/main/1100007%3ACardano%20developer%20club%20in%20Universities/Milestone1/Lab%20Design.pdf " type="application/pdf" width="100">
+<object data="[/Milestone1/Lab%20Design.pdf](/Milestone1/Lab%20Design.pdf " type="application/pdf" width="100">
+ 
 ## Club Regulation docs (NEED INPUT)
