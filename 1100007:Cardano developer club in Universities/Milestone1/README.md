@@ -59,7 +59,7 @@ Meeting location: Faculty of Information Technology - University of Transport.
 - Update information about the project [C2VN]: Cardano developer club in Universities has been funded in fund11
 - Introduce work items in each milestone.
 - Identify obstacles and advantages of the project
-- Assign work to each member, create a work assignment table.
+- Assign work to each member, create a task assignment table.
 - Propose and agree on a regular project meeting schedule.
 
 **Kickoff meeting pictures:**
@@ -68,8 +68,8 @@ Meeting location: Faculty of Information Technology - University of Transport.
 ![20240309_093718](https://github.com/cardano2vn/fund11/assets/107251579/64c094f4-eeb1-489d-a60c-250fe0b0e0b8)
 
 
-## Blockchain club confirmation letter (NEED INPUT)
-## Club designing materials:(NEED INPUT)
+## Blockchain club confirmation letter (NEED INPUT) ⚠️
+## Club designing materials:(NEED INPUT) ⚠️
 ## Club planning document:
 **This is our plan for 09 labs**
 
@@ -78,5 +78,11 @@ Meeting location: Faculty of Information Technology - University of Transport.
  ![2](https://github.com/cardano2vn/fund11/assets/107251579/8a1c26cd-9351-4c83-96cc-16eb86c27613)
 
  
- 
-## Club Regulation docs (NEED INPUT)
+## Tasks assignment table.##
+
+![image](https://github.com/cardano2vn/fund11/assets/107251579/c05807ad-7a8a-45f8-94fc-5623a3802c8e)
+
+![image](https://github.com/cardano2vn/fund11/assets/107251579/7a0b89bd-c9ca-4e1e-ad62-e2b293293ba6)
+
+
+## Club Regulation docs (NEED INPUT) ⚠️
