@@ -59,4 +59,5 @@ Meeting location: Faculty of Information Technology - University of Transport.
 ## Club designing materials:(NEED INPUT)
 ## Club planning document:
 
+<object data="[/blog/images/xxx.pdf](https://github.com/cardano2vn/fund11/blob/main/1100007%3ACardano%20developer%20club%20in%20Universities/Milestone1/Lab%20Design.pdf)https://github.com/cardano2vn/fund11/blob/main/1100007%3ACardano%20developer%20club%20in%20Universities/Milestone1/Lab%20Design.pdf " type="application/pdf" width="100">
 ## Club Regulation docs (NEED INPUT)
