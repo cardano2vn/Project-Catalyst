@@ -6,7 +6,7 @@
 
 
 # Kickoff meeting minutes 
-We conducted a project kick-off meeting on** Saturday - March 9, 2024**
+We conducted a project kick-off meeting on ** Saturday - March 9, 2024**
 Meeting location: Faculty of Information Technology - University of Transport.
 
 **Participants:**
@@ -24,17 +24,18 @@ Meeting location: Faculty of Information Technology - University of Transport.
 - Create a task assignment table.
 - Propose and agree on a regular project meeting schedule.
 **Role**
-  **Hoang Van Thong**
+  
+ **Hoang Van Thong**
 
-Role: Curriculum Quality Assurance Officer
+ Role: Curriculum Quality Assurance Officer
 
-Bio: PhD, Lecturer (since 2001) and Dean of Faculty of Information Technology (since 2020), University of Transportation and Communications,
+ Bio: PhD, Lecturer (since 2001) and Dean of Faculty of Information Technology (since 2020), University of Transportation and Communications,
 
-**Cao Thi Luyen,**
+**Cao Thi Luyen**
 
-Role: Curriculum Development member
+ Role: Curriculum Development member
 
-Bio: Lecturer (since 2001) of the Faculty of Information Technology, University of Transportation and Communications.
+ Bio: Lecturer (since 2001) of the Faculty of Information Technology, University of Transportation and Communications.
 
 **Nguyen Kim Sao**
 
@@ -44,15 +45,24 @@ Bio: PhD., lecturer at the University of Transport and Communications
 
 **Nguyen Duc Du**
 
-Role: Curriculum Development member, Event Organizer
+ Role: Curriculum Development member, Event Organizer
 
-Bio: PhD., lecturer at the University of Transport and Communications
+ Bio: PhD., lecturer at the University of Transport and Communications
+
+**Nguyen Van Hieu**
+
+ Role: Mentors,Curriculum Development member
+
+ Bio: Founder of HADA stake pool, member of Plutus Pioneer Program, Lead Technical Support at many successful startups.
+
 
 **Nguyen Anh Tien**
 
-Role: Project Manager, Product Owner, Blockchain Developer
+ Role: Project Manager, Product Owner, Blockchain Developer
 
-Bio: the Founder of the VILAI stake pool, and a computer science expert working in the Cardano/Crypto space since 2018. Cardano Ambassador
+ Bio: the Founder of the VILAI stake pool, and a computer science expert working in the Cardano/Crypto space since 2018. Cardano Ambassador
+
+ 
 **Kickoff meeting pictures:**
 ![image](https://github.com/cardano2vn/fund11/assets/107251579/0a1d1937-9a2b-4f48-b5bc-b9312788d9b5)
 ![20240309_093620](https://github.com/cardano2vn/fund11/assets/107251579/230129d1-1d38-4c05-a10f-ea8e0a239516)
