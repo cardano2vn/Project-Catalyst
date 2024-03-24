@@ -72,6 +72,7 @@ Meeting location: Faculty of Information Technology - University of Transport.
 ## Club designing materials:(NEED INPUT)
 ## Club planning document:
 **This is our plan for 09 labs**
+
  ![1](https://github.com/cardano2vn/fund11/assets/107251579/0c7a662d-4eb5-4a70-b024-bae4ac0674d4)
 
  ![2](https://github.com/cardano2vn/fund11/assets/107251579/8a1c26cd-9351-4c83-96cc-16eb86c27613)
