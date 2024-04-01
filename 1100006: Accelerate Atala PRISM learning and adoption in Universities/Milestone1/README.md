@@ -1,3 +1,10 @@
+---
+id: 1100006
+title: [C2VN] Accelerate Atala PRISM learning and adoption in Universities
+sidebar_label: "null"
+description: "null"
+--- 
+
 #  Proof of Achievement for Milestone 1
 |  Project Name |[C2VN] Accelerate Atala PRISM learning and adoption in Universities|
 | ------------ | ------------ |
