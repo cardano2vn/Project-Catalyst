@@ -78,7 +78,8 @@ Detail RACI Matrix could be accessible at [here](https://docs.google.com/spreads
 
 # Self-sovereign Identity workshops schedule: ⚠️
 # Governance Framework workshops schedule: ⚠️
-# AP101 document will be published on github:  ⚠️
+# AP101 document will be published on github:
+AP101 are uploaded on [our github](https://github.com/cardano2vn/fund11/tree/main/AP101%20Slides)
 # Design document will be published on github
 This is the [copy of Atala PRISM Referent cases design](https://github.com/cardano2vn/fund11/blob/main/1100006%3A%20Accelerate%20Atala%20PRISM%20learning%20and%20adoption%20in%20Universities/Milestone1/Atala_PRISM_Referent_cases_design.pdf)
 
