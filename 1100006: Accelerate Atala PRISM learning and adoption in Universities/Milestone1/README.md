@@ -76,11 +76,31 @@ Detail RACI Matrix could be accessible at [here](https://docs.google.com/spreads
 
 ![image](https://github.com/cardano2vn/fund11/assets/107251579/b5e747fc-dd83-43dd-8b70-f83ca14fb577)
 
-# Self-sovereign Identity workshops schedule: ⚠️
-# Governance Framework workshops schedule: ⚠️
+# Self-sovereign Identity workshops schedule: 
+![image](https://github.com/cardano2vn/fund11/assets/107251579/12330e62-661c-4467-b71b-01d9a857b791)
+![image](https://github.com/cardano2vn/fund11/assets/107251579/89bcbd10-7bee-46d5-a585-bee9ffbc19aa)
+The original version in Miro is at [this link](https://miro.com/app/board/uXjVKaYtcn8=/?share_link_id=714163731786)
+
+# Governance Framework workshops schedule: 
+![image](https://github.com/cardano2vn/fund11/assets/107251579/af1bf825-7c2a-4592-8d6a-e33379c681e9)
+![image](https://github.com/cardano2vn/fund11/assets/107251579/e712a88f-5743-46a8-9b3e-e44c42bdc53b)
+
+The original version in Miro is at [this link](https://miro.com/app/board/uXjVKaYtcn8=/?share_link_id=714163731786)
+
+
+
+
 # AP101 document will be published on github:
 AP101 are uploaded on [our github](https://github.com/cardano2vn/fund11/tree/main/AP101%20Slides)
 # Design document will be published on github
 This is the [copy of Atala PRISM Referent cases design](https://github.com/cardano2vn/fund11/blob/main/1100006%3A%20Accelerate%20Atala%20PRISM%20learning%20and%20adoption%20in%20Universities/Milestone1/Atala_PRISM_Referent_cases_design.pdf)
 
-# The approval document from University  ⚠️
+# The approval document from University 
+This is the capture of approval documents
+![image](https://github.com/cardano2vn/fund11/assets/107251579/1fa30c98-47b5-4738-a0b2-36ed1d3f0c42)
+![image](https://github.com/cardano2vn/fund11/assets/107251579/752c8b71-1d69-42b8-8abc-133ff84dda9e)
+
+Detail report in Vietnamese is at [this link](https://github.com/cardano2vn/fund11/blob/main/1100006%3A%20Accelerate%20Atala%20PRISM%20learning%20and%20adoption%20in%20Universities/Milestone1/Bien%20Ban%20hop%20hoi%20dong.pdf)
+
+
+
