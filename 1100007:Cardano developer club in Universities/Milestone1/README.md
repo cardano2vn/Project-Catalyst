@@ -68,8 +68,14 @@ Meeting location: Faculty of Information Technology - University of Transport.
 ![20240309_093718](https://github.com/cardano2vn/fund11/assets/107251579/64c094f4-eeb1-489d-a60c-250fe0b0e0b8)
 
 
-## Blockchain club confirmation letter (NEED INPUT) ⚠️
-## Club designing materials:(NEED INPUT) ⚠️
+## Blockchain club confirmation letter
+![Quyetdinh](https://github.com/cardano2vn/fund11/assets/107251579/509f45b0-8098-41ce-bf0f-dabd4bf19b29)
+
+## Club designing materials:
+We just upload to here 02 designs, all materials are put at [this link](https://github.com/cardano2vn/fund11/tree/main/1100007%3ACardano%20developer%20club%20in%20Universities/Milestone1/Designs)
+![photo_1_2024-04-10_19-18-55](https://github.com/cardano2vn/fund11/assets/107251579/11a163df-7cab-40a3-accb-f47c802c58a1)
+![photo_2_2024-04-10_19-19-09](https://github.com/cardano2vn/fund11/assets/107251579/07464089-0510-4ac5-bbd7-cb737e9c7377)
+
 ## Club planning document:
 **This is our plan for 09 labs**
 
@@ -85,4 +91,5 @@ Meeting location: Faculty of Information Technology - University of Transport.
 ![image](https://github.com/cardano2vn/fund11/assets/107251579/7a0b89bd-c9ca-4e1e-ad62-e2b293293ba6)
 
 
-## Club Regulation docs (NEED INPUT) ⚠️
+## Club Regulation docs: <<<<
+
