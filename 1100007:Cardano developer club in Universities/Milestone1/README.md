@@ -91,5 +91,7 @@ We just upload to here 02 designs, all materials are put at [this link](https://
 ![image](https://github.com/cardano2vn/fund11/assets/107251579/7a0b89bd-c9ca-4e1e-ad62-e2b293293ba6)
 
 
-## Club Regulation docs: <<<<
+## Club Regulation docs: 
+[English verion](https://github.com/cardano2vn/fund11/blob/main/1100007%3ACardano%20developer%20club%20in%20Universities/Milestone1/Lab%20Regulations.pdf)
+[Vietnamese version](https://github.com/cardano2vn/fund11/blob/main/1100007%3ACardano%20developer%20club%20in%20Universities/Milestone1/Lab%20Regulations%20in%20VN.pdf)
 
