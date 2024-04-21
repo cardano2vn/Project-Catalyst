@@ -27,6 +27,7 @@ For detail document, please click picture below 👇
 [Marketing post on X](https://twitter.com/cardano2vn/status/1781911216799305843)
 
 [Marketing post on FB](https://www.facebook.com/photo/?fbid=122136677294179651&set=pcb.122136677486179651)
+
 Please click to picture below to watch the recording 👇
 
 [![IMG_2391](https://github.com/cardano2vn/fund11/assets/107251579/226980a6-75e8-48a6-ab0b-cecbb2df0863)](https://youtu.be/dT-ueoValU4?t=57 " Introduce 1st Self-sovereign Identity workshop")
