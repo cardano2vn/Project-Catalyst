@@ -9,6 +9,8 @@
 AP101 document was upload to github at [this link](https://github.com/cardano2vn/fund11/blob/main/1100006%3A%20Accelerate%20Atala%20PRISM%20learning%20and%20adoption%20in%20Universities/Milestone2/AP101/Foundation%20of%20Alata%20Prism_AP101Ver02.pdf)
 # AP102 document
 
+[![image](https://github.com/cardano2vn/fund11/assets/107251579/aef25527-365d-4295-9973-6be4d6d32918)](https://docs.google.com/document/d/1C4BZWrc0ytvtN7PivBZfrtD5OnVAIZAGhuQk2tLq8yE/edit?usp=sharing)
+
 
 # AP103 document 
 AP103 document was upload to github at [this link](https://github.com/cardano2vn/fund11/blob/main/1100006%3A%20Accelerate%20Atala%20PRISM%20learning%20and%20adoption%20in%20Universities/Milestone2/AP103/AP103-Atala%20PRISM%20Human%20Centric%20Design%20for%20Decentralized%20Identity.pdf)
