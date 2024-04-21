@@ -14,8 +14,9 @@ AP101 document was upload to github at [this link](https://github.com/cardano2vn
 AP103 document was upload to github at [this link](https://github.com/cardano2vn/fund11/blob/main/1100006%3A%20Accelerate%20Atala%20PRISM%20learning%20and%20adoption%20in%20Universities/Milestone2/AP103/AP103-Atala%20PRISM%20Human%20Centric%20Design%20for%20Decentralized%20Identity.pdf)
 # Marketing posts, workshop with pictures and recording, workshop summary
 
-<iframe width="1310" height="737" src="https://www.youtube.com/embed/dT-ueoValU4" title="DID_AP101" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Please click to picture below to watch the recording
 
+[![IMG_2391](https://github.com/cardano2vn/fund11/assets/107251579/226980a6-75e8-48a6-ab0b-cecbb2df0863)](https://youtu.be/dT-ueoValU4?t=57 " Introduce 1st Self-sovereign Identity workshop")
 
 
 [Pictures at the 1st 1st Self-sovereign Identity workshop](https://drive.google.com/drive/folders/1F4ILrS9zLRGacFumavdjyUeJ6WvLXwIa) 
