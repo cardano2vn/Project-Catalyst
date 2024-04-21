@@ -9,6 +9,7 @@
 For detail document, please click picture below
 [![image](https://github.com/cardano2vn/fund11/assets/107251579/6bcd0480-7e59-4cae-ac02-50ae264fb2bf)](https://github.com/cardano2vn/fund11/blob/main/1100006%3A%20Accelerate%20Atala%20PRISM%20learning%20and%20adoption%20in%20Universities/Milestone2/AP101/Foundation%20of%20Alata%20Prism_AP101Ver02.pdf)
 
+and at [this repository](https://github.com/cardano2vn/fund11/tree/main/AP101%20Slides)  (This was done at Milestone 1)
 
  
 # AP102 document
@@ -36,7 +37,8 @@ We only took a part to post here
 ![image](https://github.com/cardano2vn/fund11/assets/107251579/390eaa68-bb6f-4e7b-96dd-0430229dd5e1)
 ![image](https://github.com/cardano2vn/fund11/assets/107251579/a4d7e9d8-873e-4ab0-9931-1b3429508cc5)
 
-# Design plan of reference case on github [!CAUTION]
+# Design plan of reference case on github
+The design plan was updated at [this link](https://docs.google.com/document/d/1IDsYutE7f-MgyAxov4JDVjrR56SVYhwg8_IOYCrg8YM/edit?usp=sharing)
 
 # Review minutes with follow up action plan 
 Our Review meeting minutes is document in both [google doc](https://docs.google.com/document/d/1ibhsHIXqg33BnT84qbQeAOA3zECIsFrS4fkks8aml_I/edit?usp=sharing) and you [tube video](https://youtu.be/La5vxFfJQr8). 
