@@ -14,6 +14,7 @@ and at [this repository](https://github.com/cardano2vn/fund11/tree/main/AP101%20
  
 # AP102 document
 For detail document, please click picture below
+
 [![image](https://github.com/cardano2vn/fund11/assets/107251579/aef25527-365d-4295-9973-6be4d6d32918)](https://docs.google.com/document/d/1C4BZWrc0ytvtN7PivBZfrtD5OnVAIZAGhuQk2tLq8yE/edit?usp=sharing)
 
 
