@@ -9,7 +9,7 @@
 For detail document, please click picture below 👇
 [![image](https://github.com/cardano2vn/fund11/assets/107251579/6bcd0480-7e59-4cae-ac02-50ae264fb2bf)](https://github.com/cardano2vn/fund11/blob/main/1100006%3A%20Accelerate%20Atala%20PRISM%20learning%20and%20adoption%20in%20Universities/Milestone2/AP101/Foundation%20of%20Alata%20Prism_AP101Ver02.pdf)
 
-and at [this repository](https://github.com/cardano2vn/fund11/tree/main/AP101%20Slides)  (This was done at Milestone 1)
+and at 👉 [this repository](https://github.com/cardano2vn/fund11/tree/main/AP101%20Slides)  (This was done at Milestone 1)
 
  
 # AP102 document
