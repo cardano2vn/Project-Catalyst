@@ -34,6 +34,7 @@ Please click to picture below to watch the recording 👇
 
 
 👉 [Pictures at the 1st 1st Self-sovereign Identity workshop](https://drive.google.com/drive/folders/1F4ILrS9zLRGacFumavdjyUeJ6WvLXwIa) 
+
 👉 [SSI Test result for 46 attendees at workshop](https://docs.google.com/spreadsheets/d/1HucsaIpFhwa_Q0jCpYLAIVToHNidA90ZP5-kRGZD9ck/edit?usp=sharing)
 
 # Evidence of Integrate Atala Prism V2 as a subject in Universities ( teaching Atala Prism V2 at University)
