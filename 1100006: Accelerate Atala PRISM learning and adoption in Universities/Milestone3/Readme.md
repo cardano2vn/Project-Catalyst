@@ -10,7 +10,7 @@
 # Documents and codes of reference case on github (referent cases)
 # Referent cases and instruction guides are on github/website
 # A full subject delivery with picture and recording as evidences (Deliver the 1st Teaching session about Atala Prism V2 in University,)
-- Picture at
+- [Pictures taken at class](https://drive.google.com/drive/folders/17R96Gvw0Vqh_CC6DQj8-AtcseNUuS7Qh)
 # Recording of supporting session and summary (ngày 4/5/2025)
 # A governance Framework workshops with pictures, recording and summary as evidence:
 
