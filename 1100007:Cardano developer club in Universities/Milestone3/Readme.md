@@ -37,3 +37,6 @@ We would like to submit our PoA in Milestone 3. In this Milestone we commit to p
 ![THA01773](https://github.com/cardano2vn/fund11/assets/107251579/d35e1e25-cccb-4a34-ac66-355541ed8b84)
 
 ## A public lab duty schedule and contact information will be public
+
+![image](https://github.com/cardano2vn/fund11/assets/107251579/8b3c8444-00c6-442d-82ec-4655382bfc4b)
+
