@@ -27,19 +27,14 @@ We would like to submit our PoA in Milestone 3. In this Milestone we commit to p
 ![THA01776](https://github.com/cardano2vn/fund11/assets/107251579/74f198cb-86e2-4bc7-8601-8f03c37390a3)
 
 ## Document that collects all articles from social platforms with statitistic of interested audiences
-|  Project Name |  [C2VN]: Cardano developer club in Universities |
-| ------------ | ------------ |
-| Project ID  | 1100007  |
-|  Link  |  [Open full project](https://projectcatalyst.io/funds/11/cardano-open-ecosystem/c2vn-cardano-developer-club-in-universities-3e95c) |
+|  Time |  URL |
+| Pre-Event| [URL](https://www.facebook.com/BLOCKCHAIN.UTC/videos/2557801487735433) |
 
+| Pre-Event| [URL](https://t.me/vietnameasterntownhall/17705?single) |
 
-| Pre-Event| [URL](https://www.facebook.com/BLOCKCHAIN.UTC/videos/2557801487735433)|
+| Pre-Event| [URL](https://twitter.com/TienNgAnh/status/1800551101059711327) |
 
-| Pre-Event| [URL](https://t.me/vietnameasterntownhall/17705?single)|
-
-| Pre-Event| [URL](https://twitter.com/TienNgAnh/status/1800551101059711327)|
-
-| Pre-Event| [URL](https://t.me/vietnameasterntownhall/17705?single)|
+| Pre-Event| [URL](https://t.me/vietnameasterntownhall/17705?single) |
 
 | During Event  |  [Link](https://twitter.com/TienNgAnh/status/1802009268012625924) |
 
