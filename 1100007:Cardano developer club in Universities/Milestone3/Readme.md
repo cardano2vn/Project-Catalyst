@@ -15,7 +15,7 @@ We would like to submit our PoA in Milestone 3. In this Milestone we commit to p
 ![image](https://github.com/cardano2vn/fund11/assets/107251579/f66f7781-f0d4-4484-ba90-fca84ed042a7)
 
 
-## inforgraphic about internet connection/wifi SSID
+## Inforgraphic about internet connection/wifi SSID
 ![image](https://github.com/cardano2vn/fund11/assets/107251579/702f0931-8041-4e6b-9969-b13721c5d6a8)
 
 ## Pictures that shown how TV look likes in Lab room
