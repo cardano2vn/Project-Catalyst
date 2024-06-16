@@ -29,24 +29,14 @@ We would like to submit our PoA in Milestone 3. In this Milestone we commit to p
 ## Document that collects all articles from social platforms with statitistic of interested audiences
 |  Time |  URL |
 | ------------ | ------------ |
-|  Link  |  [Open full project](https://projectcatalyst.io/funds/11/cardano-open-ecosystem/c2vn-cardano-developer-club-in-universities-3e95c) |
-
 | Pre-Event| [URL](https://www.facebook.com/BLOCKCHAIN.UTC/videos/2557801487735433) |
-
 | Pre-Event| [URL](https://t.me/vietnameasterntownhall/17705?single) |
-
 | Pre-Event| [URL](https://twitter.com/TienNgAnh/status/1800551101059711327) |
-
 | Pre-Event| [URL](https://t.me/vietnameasterntownhall/17705?single) |
-
 | During Event  |  [Link](https://twitter.com/TienNgAnh/status/1802009268012625924) |
-
 | During Event |  [Link](https://giaoducthoidai.vn/sinh-vien-khoi-nghiep-tren-nen-tang-blockchain-post687699.html) |
-
 | After Event |  [Link](https://forum.cardano.org/t/blockchin-lab-trong-tr-ng-d-i-h-c-giao-thong-v-n-t-i/133063) |
-
 | After Event |  [Link](https://t.me/vietnameasterntownhall/17856) |
-
 | After Event |  [Link](https://www.facebook.com/BLOCKCHAIN.UTC/posts/pfbid02A9v8LkBJW3TzxAjQoo82iBzPfa1585rn2ADD3yCryZJYe6uHmrCVFoe7gMYnr7ebl) |
 
 
