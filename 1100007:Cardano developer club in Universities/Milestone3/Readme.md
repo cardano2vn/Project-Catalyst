@@ -28,6 +28,9 @@ We would like to submit our PoA in Milestone 3. In this Milestone we commit to p
 
 ## Document that collects all articles from social platforms with statitistic of interested audiences
 |  Time |  URL |
+| ------------ | ------------ |
+|  Link  |  [Open full project](https://projectcatalyst.io/funds/11/cardano-open-ecosystem/c2vn-cardano-developer-club-in-universities-3e95c) |
+
 | Pre-Event| [URL](https://www.facebook.com/BLOCKCHAIN.UTC/videos/2557801487735433) |
 
 | Pre-Event| [URL](https://t.me/vietnameasterntownhall/17705?single) |
