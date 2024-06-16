@@ -29,8 +29,11 @@ We would like to submit our PoA in Milestone 3. In this Milestone we commit to p
 ## Document that collects all articles from social platforms with statitistic of interested audiences
 
 | Pre-Event| [URL](https://www.facebook.com/BLOCKCHAIN.UTC/videos/2557801487735433)|
+
 | Pre-Event| [URL](https://t.me/vietnameasterntownhall/17705?single)|
+
 | Pre-Event| [URL](https://twitter.com/TienNgAnh/status/1800551101059711327)|
+
 | Pre-Event| [URL](https://t.me/vietnameasterntownhall/17705?single)|
 
 | During Event  |  [Link](https://twitter.com/TienNgAnh/status/1802009268012625924) |
