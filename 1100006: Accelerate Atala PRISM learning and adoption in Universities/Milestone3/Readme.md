@@ -11,7 +11,12 @@
 # Referent cases and instruction guides are on github/website
 # A full subject delivery with picture and recording as evidences (Deliver the 1st Teaching session about Atala Prism V2 in University,)
 - [Pictures taken at class](https://drive.google.com/drive/folders/17R96Gvw0Vqh_CC6DQj8-AtcseNUuS7Qh)
-# Recording of supporting session and summary (ngày 4/5/2025)
+# Recording of supporting session and summary:
+We had a coaching session, guiding the [Careblock team](https://projectcatalyst.io/funds/11/cardano-use-cases-concept/careblock-empowering-secure-healthcare-transactions-by-cardano) to consider using DID in their project. 
+
+<iframe width="1280" height="536" src="https://www.youtube.com/embed/GhWtDi4xe0E?list=PLbQhX3HIoPxqGPHBh-4rYDfeOg6z66SNj" title="DID Coaching session -01" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 # A governance Framework workshops with pictures, recording and summary as evidence:
 
 Link [recording](https://youtu.be/IVoLioyYy-o)
