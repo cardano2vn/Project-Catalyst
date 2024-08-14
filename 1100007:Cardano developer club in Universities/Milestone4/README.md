@@ -14,11 +14,13 @@ We would like to submit our PoA in Milestone 4.
 In this Milestone we commit to provide these evidences to our outputs:
 
 ## Hosting at least 03 seminars
-![image](https://github.com/cardano2vn/fund11/assets/107251579/f66f7781-f0d4-4484-ba90-fca84ed042a7)
+ 
 There is evidence that at least 150 people attended after the seminars
+-  [Introduction to Cardano Blockchain -10 Aug 2024](https://youtu.be/0XDJZOt3Q8A)
+-  [Blockchain Introduction -13 Aug 2024](https://youtu.be/LI4Y-lFBe5c)
 
 ## Organize Hackathon
-![image](https://github.com/cardano2vn/fund11/assets/107251579/702f0931-8041-4e6b-9969-b13721c5d6a8)
+ 
 There are at leat 15 participants in Hackathon
 
 ## Catalyst introduction to developer
