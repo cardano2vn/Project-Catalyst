@@ -20,6 +20,8 @@ There is evidence that at least 150 people attended after the seminars
 -  [Blockchain Introduction -13 Aug 2024](https://youtu.be/LI4Y-lFBe5c)
 
 ## Organize Hackathon
+- [Media post - Call for students to register hackathon](https://www.facebook.com/share/p/tYFN9GrwuPgGoFX4/)
+- [Media post - Introduction to Cardano Blockchain](https://www.facebook.com/share/p/EX9e9PHvsTSNWPoj/)
  
 There are at leat 15 participants in Hackathon
 
