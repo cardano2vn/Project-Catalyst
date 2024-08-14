@@ -14,7 +14,9 @@
 # Recording of supporting session and summary:
 We had a coaching session, guiding the [Careblock team](https://projectcatalyst.io/funds/11/cardano-use-cases-concept/careblock-empowering-secure-healthcare-transactions-by-cardano) to consider using DID in their project. 
 
-<iframe width="1280" height="536" src="https://www.youtube.com/embed/GhWtDi4xe0E?list=PLbQhX3HIoPxqGPHBh-4rYDfeOg6z66SNj" title="DID Coaching session -01" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[![Coaching Careblock Team]](https://www.youtube.com/watch?v=GhWtDi4xe0E?t=1913 "Atala Prism")
+
 
 
 # A governance Framework workshops with pictures, recording and summary as evidence:
