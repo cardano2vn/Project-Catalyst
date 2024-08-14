@@ -6,7 +6,7 @@
 
 
 ## Workshop with pictures and recording, workshop summary (2nd Self-sovereign Identity workshop)
-- Picture at [google drive ](https://photos.app.goo.gl/oVYpGo3Znq5dPjQm7)
+- All Picture of this offline workshop at [google drive ](https://photos.app.goo.gl/oVYpGo3Znq5dPjQm7)
 
 ## Documents and codes of reference case on github (referent cases)
 ## Referent cases and instruction guides are on github/website
@@ -22,6 +22,7 @@ Link [recording](https://youtu.be/IVoLioyYy-o)
 
 Summary of  topics we discussed governance Framework workshops:
 - Identity models:
+
 	Centralized Model
 
 	Federated Model)= Identity Providers (IDPs)
@@ -46,6 +47,9 @@ Summary of  topics we discussed governance Framework workshops:
   
 ## A copy of meeting minutes will be published on github:
 Our Review meeting minutes is document in both [google doc](https://docs.google.com/document/d/1ibhsHIXqg33BnT84qbQeAOA3zECIsFrS4fkks8aml_I/edit?usp=sharing) 
+
 and recordings can be accessed at:
+
 [04 Aug 2024](https://youtu.be/7uroHR7pbso?t=396). 
+
 [28 July 2024](https://youtu.be/X-5ZYZpAaF4?list=PLbQhX3HIoPxq0Rol6v2szteet0fAnpTcM&t=1876)
