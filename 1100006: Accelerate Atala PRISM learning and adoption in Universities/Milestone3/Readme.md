@@ -20,9 +20,23 @@ We had a coaching session, guiding the [Careblock team](https://projectcatalyst.
 ## A governance Framework workshops with pictures, recording and summary as evidence:
 Link [recording](https://youtu.be/IVoLioyYy-o)
 
-Summary of  governance Framework workshops:
-- Iteam discuss
-- Iteam discuss
+Summary of  topics we discussed governance Framework workshops:
+- Identity models:
+	Centralized Model
+	Federated Model)= Identity Providers (IDPs)
+	Self-sovereign identity model
+	Decentralized Identifier- DID
+	Verifiable Credential Data Model 
+-ZKP
+- Governance Framework
+	Trusted models:
+	Trust Triangle
+	Trust Daimond
 
+- Reference case: StudentReader Learner to Earner Governance Framework
+- 
 ## A copy of meeting minutes will be published on github:
-Our Review meeting minutes is document in both [google doc](https://docs.google.com/document/d/1ibhsHIXqg33BnT84qbQeAOA3zECIsFrS4fkks8aml_I/edit?usp=sharing) and you [tube video](https://youtu.be/La5vxFfJQr8). 
+Our Review meeting minutes is document in both [google doc](https://docs.google.com/document/d/1ibhsHIXqg33BnT84qbQeAOA3zECIsFrS4fkks8aml_I/edit?usp=sharing) 
+and recordings can be accessed at:
+[04 Aug 2024](https://youtu.be/7uroHR7pbso?t=396). 
+[28 July 2024](https://youtu.be/X-5ZYZpAaF4?list=PLbQhX3HIoPxq0Rol6v2szteet0fAnpTcM&t=1876)
