@@ -15,6 +15,9 @@ Code is at: [our github repository](https://github.com/c2vn/atala-prism-setup/tr
 
 ## Referent cases and instruction guides are on github/website
 
+![image](https://github.com/user-attachments/assets/0608fa9b-58b2-46ad-b5f6-00693d6e4c71)
+
+
 ## A full subject delivery with picture and recording as evidences (Deliver the 1st Teaching session about Atala Prism V2 in University,)
 - [Pictures taken at class](https://drive.google.com/drive/folders/17R96Gvw0Vqh_CC6DQj8-AtcseNUuS7Qh)
 
