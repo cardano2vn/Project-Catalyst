@@ -9,13 +9,15 @@
 - All Picture of this offline workshop at [google drive ](https://photos.app.goo.gl/oVYpGo3Znq5dPjQm7)
 
 ## Documents and codes of reference case on github (referent cases)
-Demo video at:
+Demo video at [this link](https://youtu.be/X4aJR2fuzTE)
 
 Code is at: [our github repository](https://github.com/c2vn/atala-prism-setup/tree/main )
 
 ## Referent cases and instruction guides are on github/website
 
 ![image](https://github.com/user-attachments/assets/0608fa9b-58b2-46ad-b5f6-00693d6e4c71)
+
+Instruction guide/document to build the reference case is at [this link](https://docs.google.com/document/d/1IDsYutE7f-MgyAxov4JDVjrR56SVYhwg8_IOYCrg8YM/edit?usp=sharing)
 
 
 ## A full subject delivery with picture and recording as evidences (Deliver the 1st Teaching session about Atala Prism V2 in University,)
