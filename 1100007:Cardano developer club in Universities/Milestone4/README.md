@@ -16,6 +16,10 @@ In this Milestone we commit to provide these evidences to our outputs:
 ## Hosting at least 03 seminars
  
 There is evidence that at least 150 people attended after the seminars
+-  [Introduction to Lucid, Cardano node for students in Blockchain Club- Session 1](https://www.youtube.com/watch?v=NUJfegKN0Gw)
+-  [Introduction to Lucid, Cardano node for students in Blockchain Club- Session 2](https://www.youtube.com/watch?v=7UyAO2km3LI)
+-  [Introduction to Lucid, Cardano node for students in Blockchain Club- Session 3](https://www.youtube.com/watch?v=qxTjkbETNAQ)
+  
 -  [Introduction to Cardano Blockchain -10 Aug 2024](https://youtu.be/0XDJZOt3Q8A)
 -  [Blockchain Introduction -13 Aug 2024](https://youtu.be/LI4Y-lFBe5c)
 
@@ -26,7 +30,8 @@ There is evidence that at least 150 people attended after the seminars
 There are at leat 15 participants in Hackathon
 
 ## Catalyst introduction to developer
-Slide, photo/recording of the event (Catalyst introduction to developer)
+- [recording of the workshop](https://youtu.be/nq6WnYYD95w)
+
 
 ## Connecting Employers and Create completion report and video
 
