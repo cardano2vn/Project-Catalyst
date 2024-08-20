@@ -28,6 +28,10 @@ There is evidence that at least 150 people attended after the seminars
 ## Organize Hackathon
 - [Media post - Call for students to register hackathon](https://www.facebook.com/share/p/tYFN9GrwuPgGoFX4/)
 - [Media post - Introduction to Cardano Blockchain](https://www.facebook.com/share/p/EX9e9PHvsTSNWPoj/)
+  
+- [Our regular project review meeting-28 July 2024 ](https://youtu.be/X-5ZYZpAaF4)
+- [Our regular project review meeting-04 Aug 2024 ](https://youtu.be/7uroHR7pbso)
+- [Our regular project review meeting-18 Aug 2024 ](https://youtu.be/M4Me1hmQBUc)
  
 There are at leat 15 participants in Hackathon
 
