@@ -21,7 +21,7 @@ There is evidence that at least 150 people attended after the seminars
 -  [Introduction to Lucid, Cardano node for students in Blockchain Club- Session 3](https://www.youtube.com/watch?v=qxTjkbETNAQ)
   
 -  [Introduction to Cardano Blockchain Hackathon -10 Aug 2024](https://youtu.be/0XDJZOt3Q8A)
--  [Blockchain Introduction -13 Aug 2024](https://youtu.be/LI4Y-lFBe5c)
+-  [Introduction to Blockchain -13 Aug 2024](https://youtu.be/LI4Y-lFBe5c)
 -  [Working with Cardano node thru CLI -15 Aug 2024](https://youtu.be/JsgbLtdO1ks)
 -  [Working with Cardano node thru API -19 Aug 2024](https://youtu.be/dXlQLc0uILM)
 
