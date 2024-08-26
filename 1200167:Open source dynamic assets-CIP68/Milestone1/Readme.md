@@ -7,11 +7,8 @@
 |  Link  |  [Open full project](https://milestones.projectcatalyst.io/projects/1200167/) |
 
 
-# Kickoff meeting minutes 
-We conducted a project kick-off meeting on ** Saturday - March 9, 2024**
-Meeting location: Faculty of Information Technology - University of Transport.
+## 20 surveys output and findings  
 
-**Participants:**
-- Nguyen Anh Tien
-- Nguyen Van Hieu
- 
+## Team structures and Working schedule document
+## Application Architecture and UI/UX design document
+## Meeting minutes report
