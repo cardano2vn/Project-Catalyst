@@ -4,7 +4,7 @@
 |  Project Name |Open source dynamic assets (Token/NFT) generator (CIP68)|
 | ------------ | ------------ |
 | Project ID  | 1200167 |
-|  Link  |  [Open full project]([https://projectcatalyst.io/funds/11/cardano-open-ecosystem/c2vn-accelerate-atala-prism-learning-and-adoption-in-universities-8d47f](https://milestones.projectcatalyst.io/projects/1200167/) |
+|  Link  |  [Open full project]([https://projectcatalyst.io/funds/11/cardano-open-ecosystem/c2vn-accelerate-atala-prism-learning-and-adoption-in-universities-8d47f](https://milestones.projectcatalyst.io/projects/1200167/]) |
 
 
 # Kickoff meeting minutes 
