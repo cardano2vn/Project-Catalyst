@@ -47,3 +47,8 @@ There are at leat 15 participants in Hackathon
 ## Completion report and video
 ![image](https://github.com/cardano2vn/fund11/assets/107251579/f8cf0253-a7cd-4634-ba2d-2f1cdc75abb3)
 Completion report and video 
+
+
+Note:
+- Cần truyền thông thường xuyên hơn trong đợt làm hackathon
+- Bố trí nhân lực hỗ trợ, làm các chủ đề nhỏ
