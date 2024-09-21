@@ -11,7 +11,9 @@
   After presenting the concept, students were exposed to a sample Governance Framework, through which students understood:
   - The main components in a Governance Framework and its functions
   - How to build a Governance Framework for an SSI model
-  However:
+
+ **  However:**
+ 
   - Governance Framework is a new topic for engineering students, so it requires a lot of practice in reality and requires guidance in some initial cases
   
 
