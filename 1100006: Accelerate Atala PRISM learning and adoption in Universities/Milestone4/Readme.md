@@ -16,12 +16,13 @@
  
    - Governance Framework is a new topic for engineering students, so it requires a lot of practice in reality and requires guidance in some initial cases
   
-
  
 ## A full subject delivery with picture/recording as evidences
 - Recording for SSI for student at   [This link ](https://youtu.be/PBxlA7MnNs8)
+- Recording of advanced SSI session (Practical module) at  [This link ](https://youtu.be/Hs6ObU4ql6g)
 
 
 ## Recording of supporting session and follow up plan
-
+- 1-1 Coaching session took place on September 27, 2023 between Teacher and Student (student scientific research group leader) - Intending to include SSI in his research topic. Recording available [here](https://youtu.be/JuiIePafo74)
 ## A copy of meeting minutes will be published on github
+- The copy of meeting minutes for 3 months have been uploaded to our [github](https://github.com/cardano2vn/fund11/blob/main/1100006%3A%20Accelerate%20Atala%20PRISM%20learning%20and%20adoption%20in%20Universities/Milestone4/1100006-MS4.pdf)
