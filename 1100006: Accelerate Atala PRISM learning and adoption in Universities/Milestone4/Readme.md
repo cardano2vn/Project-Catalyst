@@ -8,6 +8,7 @@
 ## A governance Framework workshops with pictures/recording and summary as evidence
 - Recording for Goverance framework session  [This link ](https://youtu.be/ieIXZQBM6Ig)
 
+- Some pictures from Goverance framework sessions:
   ![image](https://github.com/user-attachments/assets/bf208dd9-ee5c-417d-88f7-2045a6c7e664)
   ![image](https://github.com/user-attachments/assets/4c4eff5a-a9ec-4f08-8fe8-2b84a414b012)
   ![image](https://github.com/user-attachments/assets/86e888db-7cc1-44ef-a9de-547c2034f88e)
@@ -25,8 +26,9 @@
  
 ## A full subject delivery with picture/recording as evidences
 - Recording for SSI for student at   [This link ](https://youtu.be/PBxlA7MnNs8)
+
   
-- Some pictures from online sessions:
+- Some pictures from SSI sessions:
   ![image](https://github.com/user-attachments/assets/92517050-5cfc-482c-9536-56ec50130e23)
   ![image](https://github.com/user-attachments/assets/b11e3597-472b-4235-9b67-52ea342b9fda)
   ![image](https://github.com/user-attachments/assets/856e245a-b60f-439b-994f-b247b63f1704)
