@@ -39,11 +39,14 @@ There are at leat 15 participants in Hackathon:
  
  ![20240922_073606](https://github.com/user-attachments/assets/ad3fb4d6-0326-4e04-9ede-e5071d7d20fe)
 
-Picutures of hackathon event is at this [link](https://drive.google.com/drive/folders/1UBrLX2ZBCLqb2mCPqmgxU-ZGDJQE_0wl)
+Picutures of hackathon event are at this [link](https://drive.google.com/drive/folders/1UBrLX2ZBCLqb2mCPqmgxU-ZGDJQE_0wl)
+
+and this [link](https://photos.app.goo.gl/phkw3ZMR1QPLQqgdA)
 
 
 
-## Catalyst introduction to developer
+## Catalyst introduction to developer:
+
 - [recording of the workshop](https://youtu.be/nq6WnYYD95w)
 
 
