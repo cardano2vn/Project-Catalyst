@@ -22,9 +22,9 @@ There is evidence that at least 150 people attended after the seminars
 -  [Introduction to Lucid, Cardano node for students in Blockchain Club- Session 3](https://www.youtube.com/watch?v=qxTjkbETNAQ)
   
 -  [Introduction to Cardano Blockchain Hackathon -10 Aug 2024](https://youtu.be/0XDJZOt3Q8A) [56 people](https://github.com/cardano2vn/fund11/blob/main/1100007%3ACardano%20developer%20club%20in%20Universities/Milestone4/10082024.csv)  joined the seminar
--  [Introduction to Blockchain -13 Aug 2024](https://youtu.be/LI4Y-lFBe5c)          [46 people](https://github.com/cardano2vn/fund11/blob/main/1100007%3ACardano%20developer%20club%20in%20Universities/Milestone4/13082024.csv) joined the seminar
--  [Working with Cardano node thru CLI -15 Aug 2024](https://youtu.be/JsgbLtdO1ks)  [35 people](https://github.com/cardano2vn/fund11/blob/main/1100007%3ACardano%20developer%20club%20in%20Universities/Milestone4/15082024.csv) joined the seminar
--  [Working with Cardano node thru API -19 Aug 2024](https://youtu.be/dXlQLc0uILM)  [41 people](https://github.com/cardano2vn/fund11/blob/main/1100007%3ACardano%20developer%20club%20in%20Universities/Milestone4/19082024.csv)  joined the seminar
+-  [Introduction to Blockchain -13 Aug 2024](https://youtu.be/LI4Y-lFBe5c)         with [46 people](https://github.com/cardano2vn/fund11/blob/main/1100007%3ACardano%20developer%20club%20in%20Universities/Milestone4/13082024.csv) joined the seminar
+-  [Working with Cardano node thru CLI -15 Aug 2024](https://youtu.be/JsgbLtdO1ks) with [35 people](https://github.com/cardano2vn/fund11/blob/main/1100007%3ACardano%20developer%20club%20in%20Universities/Milestone4/15082024.csv) joined the seminar
+-  [Working with Cardano node thru API -19 Aug 2024](https://youtu.be/dXlQLc0uILM) with [41 people](https://github.com/cardano2vn/fund11/blob/main/1100007%3ACardano%20developer%20club%20in%20Universities/Milestone4/19082024.csv)  joined the seminar
 
 ## Organize Hackathon
 - [Media post - Call for students to register hackathon](https://www.facebook.com/share/p/tYFN9GrwuPgGoFX4/)
