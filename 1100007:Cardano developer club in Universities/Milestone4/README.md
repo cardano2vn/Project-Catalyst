@@ -69,8 +69,8 @@ Here are the pictures:
 
 
 ## Completion report and video
-[Completion report](https://github.com/cardano2vn/fund11/blob/main/1100007%3ACardano%20developer%20club%20in%20Universities/Milestone4/1100007%20%20Cardano%20developer%20club%20in%20Universities%20%5BClose-out%20report%5D.pdf)
-[Completion video ](https://youtu.be/F0sL2UXMc-U)
+- [Completion report](https://github.com/cardano2vn/fund11/blob/main/1100007%3ACardano%20developer%20club%20in%20Universities/Milestone4/1100007%20%20Cardano%20developer%20club%20in%20Universities%20%5BClose-out%20report%5D.pdf)
+- [Completion video ](https://youtu.be/F0sL2UXMc-U)
 
 
 **Thank you**
