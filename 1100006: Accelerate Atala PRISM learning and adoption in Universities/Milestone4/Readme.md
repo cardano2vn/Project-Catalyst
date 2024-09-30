@@ -39,7 +39,7 @@
 
 
 ## Recording of supporting session and follow up plan
-- 1-1 Coaching session took place on September 27, 2023 between Teacher and Student (student scientific research group leader) - Intending to include SSI in his research topic. Recording available [here](https://youtu.be/JuiIePafo74)
+- 1-1 Coaching session took place on September 27, 2024 between Teacher and Student (student scientific research group leader) - Intending to include SSI in his research topic. Recording available [here](https://youtu.be/JuiIePafo74)
   
   **Follow up plan:**
     -   We will share additional documents of use-cases for reference.
