@@ -10,6 +10,8 @@
 - [Surveys link 2](https://t.me/cardano2vn/1/2683)
 - [Surveys Link 3](https://t.me/StakingADA/141777)
 
+**Finding:**
+
 And here is the survey [output](https://docs.google.com/spreadsheets/d/13P1sT6i4_Mu1zHzoW86HD3EWUF60m7xGPFPKC_P6ahY/edit?usp=sharing)
 
 ## Team structures and Working schedule document
