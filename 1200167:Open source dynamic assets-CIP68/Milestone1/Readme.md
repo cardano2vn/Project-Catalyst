@@ -14,8 +14,16 @@
 
 And here is the survey [output](https://docs.google.com/spreadsheets/d/13P1sT6i4_Mu1zHzoW86HD3EWUF60m7xGPFPKC_P6ahY/edit?usp=sharing)
 
+We had a meeting to summary all findings and document at [Basic functions for users and Basic functions for systems](https://docs.google.com/document/d/15gFI704agtMpBgvTX0tLThB63G1wrdTwP4vB5Bx6W-E/edit?usp=sharing)
+
 ## Team structures and Working schedule document
+Team structures is well mentioned at 
+![image](https://github.com/user-attachments/assets/3f6ddacb-dec8-497f-9fd8-ecab0e338a2b)
+
 ## Application Architecture and UI/UX design document
+- Application Architecture is design as [this model](https://github.com/cardano2vn/fund11/blob/main/1200167%3AOpen%20source%20dynamic%20assets-CIP68/Milestone1/system%20design.pdf)
+
+- UI/UX Figma design is available at [this link](https://www.figma.com/design/F0i6C62BWxT3Mz1sT2Ynd0/shadcn-design?node-id=4-6598&node-type=canvas&t=ofaZtVo9dxTB2VGH-0)
 
 ## Meeting minutes report
 
