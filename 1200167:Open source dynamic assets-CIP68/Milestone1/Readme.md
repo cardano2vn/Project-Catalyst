@@ -12,9 +12,9 @@
 
 **Finding:**
 
-And here is the survey [output](https://docs.google.com/spreadsheets/d/13P1sT6i4_Mu1zHzoW86HD3EWUF60m7xGPFPKC_P6ahY/edit?usp=sharing)
+The output of the survey [output](https://docs.google.com/spreadsheets/d/13P1sT6i4_Mu1zHzoW86HD3EWUF60m7xGPFPKC_P6ahY/edit?usp=sharing)
 
-We had a meeting to summary all findings and document at [Basic functions for users and Basic functions for systems](https://docs.google.com/document/d/15gFI704agtMpBgvTX0tLThB63G1wrdTwP4vB5Bx6W-E/edit?usp=sharing)
+We had a meeting to summary all findings in a document at [Basic functions for users and Basic functions for systems](https://docs.google.com/document/d/15gFI704agtMpBgvTX0tLThB63G1wrdTwP4vB5Bx6W-E/edit?usp=sharing)
 
 ## Team structures and Working schedule document
 
