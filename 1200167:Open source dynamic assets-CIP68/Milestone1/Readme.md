@@ -17,7 +17,7 @@ And here is the survey [output](https://docs.google.com/spreadsheets/d/13P1sT6i4
 We had a meeting to summary all findings and document at [Basic functions for users and Basic functions for systems](https://docs.google.com/document/d/15gFI704agtMpBgvTX0tLThB63G1wrdTwP4vB5Bx6W-E/edit?usp=sharing)
 
 ## Team structures and Working schedule document
-Team structures is well mentioned at 
+
 ![image](https://github.com/user-attachments/assets/3f6ddacb-dec8-497f-9fd8-ecab0e338a2b)
 
 ## Application Architecture and UI/UX design document
