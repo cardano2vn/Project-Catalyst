@@ -15,10 +15,10 @@ We would like to submit our PoA in Milestone 1.
 In this Milestone we commit to provide these evidences to our outputs:
 
 ## Links of at least 03 reference materials
-- [1]. Arvind Narayanan, Joseph Bonneau, Edward Felten, Andrew Miller, and StevenGoldfeder, [Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction](https://www.amazon.com/Bitcoin-Cryptocurrency-Technologies-Comprehensive-Introduction/dp/0691171696), Princeton University Press, 2016.
-- [2]. Imran Bashir, [Mastering Blockchain](https://www.amazon.com/Mastering-Blockchain-technical-blockchain-cryptography-dp-1803241063/dp/1803241063/ref=dp_ob_title_bk), CRC Press, 2021.
-- [3]. Andreas M. Antonopoulos, [Mastering Bitcoin, Second edition](https://www.amazon.com/_/dp/1491954388?smid=ATVPDKIKX0DER&_encoding=UTF8&tag=oreilly20-20) O’Reilly, 2017
-- [4]. Jonh Greene, [Cardano for the Masses](https://www.amazon.com/Cardano-M%E2%82%B3sses-Financial-Operating-System/dp/B0B5KQVJ3T) - John gave 05 books to libary of university.
+- [[1]](https://www.amazon.com/Bitcoin-Cryptocurrency-Technologies-Comprehensive-Introduction/dp/0691171696). Arvind Narayanan, Joseph Bonneau, Edward Felten, Andrew Miller, and StevenGoldfeder, Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction, Princeton University Press, 2016.
+- [[2]](https://www.amazon.com/Mastering-Blockchain-technical-blockchain-cryptography-dp-1803241063/dp/1803241063/ref=dp_ob_title_bk). Imran Bashir, Mastering Blockchain, CRC Press, 2021.
+- [[3]](https://www.amazon.com/_/dp/1491954388?smid=ATVPDKIKX0DER&_encoding=UTF8&tag=oreilly20-20). Andreas M. Antonopoulos, Mastering Bitcoin, Second edition O’Reilly, 2017
+- [[4]](https://www.amazon.com/Cardano-M%E2%82%B3sses-Financial-Operating-System/dp/B0B5KQVJ3T). Jonh Greene, Cardano for the Masses - John gave 05 books to libary of university.
   ![20241012_100150](https://github.com/user-attachments/assets/5f6adc03-4bba-46fc-9c78-f42e4d656e56)
 
 ## The list of members in the conferene with Pictures/Recording of the conference
@@ -51,19 +51,24 @@ This is the list of members in the conference:
 
 ## Link of documents to use as reference to create the curriculum
 During the workshop, the project team and professors agreed to use the following reference materials.
-- [1]. Arvind Narayanan, Joseph Bonneau, Edward Felten, Andrew Miller, and StevenGoldfeder , Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction , Princeton University Press, 2016.
-- [2]. Imran Bashir, Mastering Blockchain , CRC Press, 2021.
-- [3]. Andreas M. Antonopoulos, Mastering Bitcoin, Second edition, O'Reilly, 2017
-- [4]. Andreas M. Antonopoulos andDr. Gavin Wood, Mastering Ethereum, First edition, O'Reilly, 2019
-- [5]. Narayan Prusty, Building Blockchain Projects, Develop real-time practical DApps using Ethereum and JavaScript, Packt Publishing, 2017.
-- [6]. Cardano Academy Cardano Blockchain Certified Associate (CBCA) Course  
-- [7]. Daniel Drescher, Blockchain Basics: A Non-Technical Introduction in 25 Steps , ISBN-13 (pbk): 978-1-4842-2603-2, DOI 10.1007/978-1-4842-2604-9, 2020.
-- [8]. John Greene, Cardano for the Masses, 2022
+- [[1]](https://www.amazon.com/Bitcoin-Cryptocurrency-Technologies-Comprehensive-Introduction/dp/0691171696). Arvind Narayanan, Joseph Bonneau, Edward Felten, Andrew Miller, and StevenGoldfeder, Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction, Princeton University Press, 2016.
+- [[2]](https://www.amazon.com/Mastering-Blockchain-technical-blockchain-cryptography-dp-1803241063/dp/1803241063/ref=dp_ob_title_bk). Imran Bashir, Mastering Blockchain, CRC Press, 2021.
+- [[3]](https://www.amazon.com/_/dp/1491954388?smid=ATVPDKIKX0DER&_encoding=UTF8&tag=oreilly20-20). Andreas M. Antonopoulos, Mastering Bitcoin, Second edition O’Reilly, 2017
+- [[4]] Andreas M. Antonopoulos andDr. Gavin Wood, Mastering Ethereum, First edition, O'Reilly, 2019
+- [[5]](https://books.google.com.vn/books/about/Building_Blockchain_Projects.html?id=80EwDwAAQBAJ&redir_esc=y). Narayan Prusty, Building Blockchain Projects, Develop real-time practical DApps using Ethereum and JavaScript, Packt Publishing, 2017.
+- [[6]](https://academy.cardanofoundation.org/). Cardano Academy Cardano Blockchain Certified Associate (CBCA) Course  
+- [[7]](https://www.amazon.com/Blockchain-Basics-Non-Technical-Introduction-Steps/dp/1484226038). Daniel Drescher, Blockchain Basics: A Non-Technical Introduction in 25 Steps , ISBN-13 (pbk): 978-1-4842-2603-2, DOI 10.1007/978-1-4842-2604-9, 2020.
+- [[8]]. (https://www.amazon.com/Cardano-M%E2%82%B3sses-Financial-Operating-System/dp/B0B5KQVJ3T). Jonh Greene, Cardano for the Masses - John gave 05 books to libary of university.
 
 ## Evidence of approval The standards of knowledge and skills for students
 - The approval document in local language is at [this link](https://drive.google.com/file/d/1k_1NYPTX5b875fDqtnZwFSHM1AkjBkl8/view?usp=sharing). the Automatic translation into English is available [here](https://docs.google.com/document/d/1xZysFPp0ndjFxe4MkqOGABDrKnx3DXRa/edit?usp=sharing&ouid=100538284716472257568&rtpof=true&sd=true)
 ##  Meeting minutes of each weekly meeting
 Internal meeting:
-[29 Sept 2024](https://youtu.be/zEhC2jTTgF4)
-
+-  [1200002:Cardano blockchain courseware in Universities 20/07/2024](https://youtu.be/WzaMfUdVMqc)
+-  [1200002:Cardano blockchain courseware in Universities 20/08/2024](https://youtu.be/M4Me1hmQBUc?t=1460)
+-  [1200002:Cardano blockchain courseware in Universities 29/09/2024](https://youtu.be/zEhC2jTTgF4)
+-  [1200002:Cardano blockchain courseware in Universities 19/10/2024](https://youtu.be/-E692umbIfQ)
+-  Meeting minute at University-12.08.2024- [Signed version](https://drive.google.com/file/d/1A4_bphROucO1Hep9JqnN7LzQR9TlloF4/view?usp=sharing)  -[auto translated version](https://docs.google.com/document/d/1UN3vVnAlfLxMhw3UpnjSHHe9LPnWWkZ2/edit?usp=sharing&ouid=100538284716472257568&rtpof=true&sd=true) into english by google
+-  Meeting minute at University-05.09.2024- [Signed version](https://drive.google.com/file/d/1pmiQWDm35BaP3IUlycdEqKlK7_CnwVm4/view?usp=sharing)  -[auto translated version](https://docs.google.com/document/d/15GyeqKoT4O-7K8l6gN_Cjje1x-0FRjdz/edit?usp=sharing&ouid=100538284716472257568&rtpof=true&sd=true) into english by google
+-  Meeting minute at University-13.09.2024- [Signed version](https://drive.google.com/file/d/12-DnCFrgtEJZmqRA5ShmFE2FCZaL4pNm/view?usp=sharing)  -[auto translated version](https://docs.google.com/document/d/1v4H8InxugwNTSFw3EK3uN_J1dJMHBM1E/edit?usp=sharing&ouid=100538284716472257568&rtpof=true&sd=true) into english by google
 
