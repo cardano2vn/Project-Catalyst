@@ -58,17 +58,17 @@ During the workshop, the project team and professors agreed to use the following
 - [[5]](https://books.google.com.vn/books/about/Building_Blockchain_Projects.html?id=80EwDwAAQBAJ&redir_esc=y). Narayan Prusty, Building Blockchain Projects, Develop real-time practical DApps using Ethereum and JavaScript, Packt Publishing, 2017.
 - [[6]](https://academy.cardanofoundation.org/). Cardano Academy Cardano Blockchain Certified Associate (CBCA) Course  
 - [[7]](https://www.amazon.com/Blockchain-Basics-Non-Technical-Introduction-Steps/dp/1484226038). Daniel Drescher, Blockchain Basics: A Non-Technical Introduction in 25 Steps , ISBN-13 (pbk): 978-1-4842-2603-2, DOI 10.1007/978-1-4842-2604-9, 2020.
-- [[8]]. (https://www.amazon.com/Cardano-M%E2%82%B3sses-Financial-Operating-System/dp/B0B5KQVJ3T). Jonh Greene, Cardano for the Masses - John gave 05 books to libary of university.
+- [[8]](https://www.amazon.com/Cardano-M%E2%82%B3sses-Financial-Operating-System/dp/B0B5KQVJ3T). Jonh Greene, Cardano for the Masses - John gave 05 books to libary of university.
 
 ## Evidence of approval The standards of knowledge and skills for students
 - The approval document in local language is at [this link](https://drive.google.com/file/d/1k_1NYPTX5b875fDqtnZwFSHM1AkjBkl8/view?usp=sharing). the Automatic translation into English is available [here](https://docs.google.com/document/d/1xZysFPp0ndjFxe4MkqOGABDrKnx3DXRa/edit?usp=sharing&ouid=100538284716472257568&rtpof=true&sd=true)
 ##  Meeting minutes of each weekly meeting
 Internal meeting:
--  [1200002:Cardano blockchain courseware in Universities 20/07/2024](https://youtu.be/WzaMfUdVMqc)
--  [1200002:Cardano blockchain courseware in Universities 20/08/2024](https://youtu.be/M4Me1hmQBUc?t=1460)
--  [1200002:Cardano blockchain courseware in Universities 29/09/2024](https://youtu.be/zEhC2jTTgF4)
--  [1200002:Cardano blockchain courseware in Universities 19/10/2024](https://youtu.be/-E692umbIfQ)
--  Meeting minute at University-12.08.2024- [Signed version](https://drive.google.com/file/d/1A4_bphROucO1Hep9JqnN7LzQR9TlloF4/view?usp=sharing)  -[auto translated version](https://docs.google.com/document/d/1UN3vVnAlfLxMhw3UpnjSHHe9LPnWWkZ2/edit?usp=sharing&ouid=100538284716472257568&rtpof=true&sd=true) into english by google
--  Meeting minute at University-05.09.2024- [Signed version](https://drive.google.com/file/d/1pmiQWDm35BaP3IUlycdEqKlK7_CnwVm4/view?usp=sharing)  -[auto translated version](https://docs.google.com/document/d/15GyeqKoT4O-7K8l6gN_Cjje1x-0FRjdz/edit?usp=sharing&ouid=100538284716472257568&rtpof=true&sd=true) into english by google
--  Meeting minute at University-13.09.2024- [Signed version](https://drive.google.com/file/d/12-DnCFrgtEJZmqRA5ShmFE2FCZaL4pNm/view?usp=sharing)  -[auto translated version](https://docs.google.com/document/d/1v4H8InxugwNTSFw3EK3uN_J1dJMHBM1E/edit?usp=sharing&ouid=100538284716472257568&rtpof=true&sd=true) into english by google
+-  1200002:Cardano blockchain courseware in Universities [20/07/2024](https://youtu.be/WzaMfUdVMqc)
+-  1200002:Cardano blockchain courseware in Universities [20/08/2024](https://youtu.be/M4Me1hmQBUc?t=1460)
+-  1200002:Cardano blockchain courseware in Universities [29/09/2024](https://youtu.be/zEhC2jTTgF4)
+-  1200002:Cardano blockchain courseware in Universities [19/10/2024](https://youtu.be/-E692umbIfQ)
+-  Meeting minute at University-12.08.2024- [Signed version](https://drive.google.com/file/d/1A4_bphROucO1Hep9JqnN7LzQR9TlloF4/view?usp=sharing)  -auto translated [version](https://docs.google.com/document/d/1UN3vVnAlfLxMhw3UpnjSHHe9LPnWWkZ2/edit?usp=sharing&ouid=100538284716472257568&rtpof=true&sd=true) into english by google
+-  Meeting minute at University-05.09.2024- [Signed version](https://drive.google.com/file/d/1pmiQWDm35BaP3IUlycdEqKlK7_CnwVm4/view?usp=sharing)  -auto translated [version](https://docs.google.com/document/d/15GyeqKoT4O-7K8l6gN_Cjje1x-0FRjdz/edit?usp=sharing&ouid=100538284716472257568&rtpof=true&sd=true) into english by google
+-  Meeting minute at University-13.09.2024- [Signed version](https://drive.google.com/file/d/12-DnCFrgtEJZmqRA5ShmFE2FCZaL4pNm/view?usp=sharing)  -auto translated [version](https://docs.google.com/document/d/1v4H8InxugwNTSFw3EK3uN_J1dJMHBM1E/edit?usp=sharing&ouid=100538284716472257568&rtpof=true&sd=true) into english by google
 
