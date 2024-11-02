@@ -58,7 +58,8 @@ The output of the survey: English: [output](https://docs.google.com/spreadsheets
  
 - The level of detail regarding the UI/UX design and its alignment with user feedback is not fully evident. More explanation on how user insights were incorporated into the design would strengthen the evidence. Where are the survey findings that informed the design?
   ![image](https://github.com/user-attachments/assets/c270e599-44f6-48b1-9b42-0d3207d0c80c)
-  If you look at the UI/UX design in detail, you will see functions such as:
+
+   If you look at the UI/UX design in detail, you will see functions such as:
    - Landing page -> Landing page for login
    - Connect wallet -> Login, identify users through common wallets
    - Upload file -> upload image
@@ -69,5 +70,9 @@ The output of the survey: English: [output](https://docs.google.com/spreadsheets
 
   
 - The evidence mentions team structures, working schedules, and meeting minutes, indicating project management activities. However, the project management aspects, such as 'Reviewing all pending tasks and planning, assigning tasks to members,' are not outlined.
-  Yes, we create [new meeting report](https://docs.google.com/document/d/1bSHF8i61pYlZ8ExR_pJrfilABf-OehkT/edit?usp=sharing&ouid=100538284716472257568&rtpof=true&sd=true) to track the progres
+
+   Yes, we create [new meeting report](https://docs.google.com/document/d/1bSHF8i61pYlZ8ExR_pJrfilABf-OehkT/edit?usp=sharing&ouid=100538284716472257568&rtpof=true&sd=true) to track the progres
   and use [WBS](https://docs.google.com/spreadsheets/d/1BZDGPv1d1MHMyX7ycNraAZght-hz44lT/edit?usp=sharing&ouid=100538284716472257568&rtpof=true&sd=true) to assign task to member
+
+  Please help to review and approve
+  **we are appreciated for your strong support**
