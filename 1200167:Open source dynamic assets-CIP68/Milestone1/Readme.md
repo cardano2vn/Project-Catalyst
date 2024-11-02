@@ -45,18 +45,18 @@ If you need to access previous meeting minutes, please use this link: [Previous 
 Regarding project management, all information related to reviewing pending tasks, planning, assigning tasks to team members, and resolving roadblocks will be updated in the following document: [Project Management](https://docs.google.com/spreadsheets/d/1BZDGPv1d1MHMyX7ycNraAZght-hz44lT/edit?gid=1613824326#gid=1613824326).
 
 ## The report has been updated with the following points based on MR's comments.
-- You need to translate any non-English content into English, whether it's related to funding, surveys, or anything else
+- **You need to translate any non-English content into English, whether it's related to funding, surveys, or anything else**
   
 Thank you, We have translated the documents into English.
 The output of the survey: English: [output](https://docs.google.com/spreadsheets/d/1b_igBAw7ERNkcEkDSlroyFxZMDoVLKe2gpptOlc-xQM/edit?gid=1855598836#gid=1855598836)
 
-- The document on 'Basic Functions for Users and Basic Functions for Systems' is incomplete. Where is the content for section 6? Where are the reference links?
+- **The document on 'Basic Functions for Users and Basic Functions for Systems' is incomplete. Where is the content for section 6? Where are the reference links?**
 
   We have added content to Section 6-Non functional /user requirements - [reflink](https://docs.google.com/document/d/15gFI704agtMpBgvTX0tLThB63G1wrdTwP4vB5Bx6W-E/edit?usp=sharing)
   ![image](https://github.com/user-attachments/assets/defab457-190c-454e-be54-b910aa5bcdf1)
 
  
-- The level of detail regarding the UI/UX design and its alignment with user feedback is not fully evident. More explanation on how user insights were incorporated into the design would strengthen the evidence. Where are the survey findings that informed the design?
+- **The level of detail regarding the UI/UX design and its alignment with user feedback is not fully evident. More explanation on how user insights were incorporated into the design would strengthen the evidence. Where are the survey findings that informed the design?**
   ![image](https://github.com/user-attachments/assets/c270e599-44f6-48b1-9b42-0d3207d0c80c)
 
    If you look at the UI/UX design in detail, you will see functions such as:
@@ -69,7 +69,7 @@ The output of the survey: English: [output](https://docs.google.com/spreadsheets
    - Profile -> There is a token management page in the connected wallet, which can display the token number, name, and view metadata information, and has an edit function that leads to the edit page . Have you ever created or owned an NFT?
 
   
-- The evidence mentions team structures, working schedules, and meeting minutes, indicating project management activities. However, the project management aspects, such as 'Reviewing all pending tasks and planning, assigning tasks to members,' are not outlined.
+- **The evidence mentions team structures, working schedules, and meeting minutes, indicating project management activities. However, the project management aspects, such as 'Reviewing all pending tasks and planning, assigning tasks to members,' are not outlined.**
 
    Yes, we create [new meeting report](https://docs.google.com/document/d/1bSHF8i61pYlZ8ExR_pJrfilABf-OehkT/edit?usp=sharing&ouid=100538284716472257568&rtpof=true&sd=true) to track the progres
   and use [WBS](https://docs.google.com/spreadsheets/d/1BZDGPv1d1MHMyX7ycNraAZght-hz44lT/edit?usp=sharing&ouid=100538284716472257568&rtpof=true&sd=true) to assign task to member
