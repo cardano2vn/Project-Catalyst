@@ -36,7 +36,7 @@ For information related to the team structures and working schedule document, pl
 - C2VN: Regular meeting F12 proposals 30/09/2024 -[1200167]: [Recording](https://youtu.be/1dQPjWRKSyE)
 
 **Update:**
-We have made some changes to our meeting minutes reporting. Specifically, all weekly meeting minutes will now be stored at the following Drive link: [Weekly Meeting Minutes](https://drive.google.com/drive/folders/1sG0_GRL_9q8RSiLrinKHW9R-3P1RtEuz).
+We have made some changes to our meeting minutes reporting. Specifically, all weekly meeting minutes will now be stored at the following Drive link: [Weekly Meeting Minutes](https://docs.google.com/document/d/1bSHF8i61pYlZ8ExR_pJrfilABf-OehkT/edit?usp=sharing&ouid=100538284716472257568&rtpof=true&sd=true).
 
 If you need to access previous meeting minutes, please use this link: [Previous Meeting Minutes](https://drive.google.com/drive/folders/1gsNkUK6X0rE4Fdy5DsYci_13vOVi_Fgw).
 
