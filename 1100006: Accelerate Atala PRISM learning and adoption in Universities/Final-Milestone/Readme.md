@@ -30,3 +30,8 @@ Lab
 
 ## Project close out report
 ## A copy of meeting minutes, completion report will be published on github
+We have a team gathering and perform the following internal meetings:
+- Sep 23, 2024 8:30 PM | Team Review Meeting
+- Oct 19, 2024 8:30 PM | Team Review Meeting
+- Nov 4, 2024 8:30 PM | Team Review Meeting
+a full document of all meeting minutes is at [this link](https://docs.google.com/document/d/169ssCA0rkjiDSRLtkvuLuW9C-EHTWfCoWNq1wXyrSUk/edit?usp=sharing)
