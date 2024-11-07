@@ -25,6 +25,14 @@ Lab
 
 
 ## Pictures and summary as evidences
+- We have evidence of 1-1 coaching for groups here:
+  -  Coaching [Careblock Team](https://www.youtube.com/watch?v=GhWtDi4xe0E?t=1913) in MS3
+  -  Coaching [Student](https://youtu.be/JuiIePafo74) in MS4
+  -  DID Coaching session [1/11/2024](https://youtu.be/1HOR4x4koLo) (above link)
+Since AtalaPrism has stopped development, there are no student groups with the orientation to use this product, so the number of projects using AtalaPrism is not available. However, the group still supports and coaches students in scientific research as usual. Evidence of meetings is available at:
+- [Day 1](https://youtu.be/H5g-h7-KTWQ)
+- [Day 2](https://youtu.be/Uhtw6Bhb-LI)
+- [Day 3]()
 
 ## Project close out report
 ## A copy of meeting minutes, completion report will be published on github
@@ -32,4 +40,5 @@ We have a team gathering and perform the following internal meetings:
 - Sep 23, 2024 8:30 PM | Team Review Meeting
 - Oct 19, 2024 8:30 PM | Team Review Meeting
 - Nov 4, 2024 8:30 PM | Team Review Meeting
-a full document of all meeting minutes is at [this link](https://docs.google.com/document/d/169ssCA0rkjiDSRLtkvuLuW9C-EHTWfCoWNq1wXyrSUk/edit?usp=sharing)
+
+A full document of all meeting minutes is at [this link](https://docs.google.com/document/d/169ssCA0rkjiDSRLtkvuLuW9C-EHTWfCoWNq1wXyrSUk/edit?usp=sharing)
