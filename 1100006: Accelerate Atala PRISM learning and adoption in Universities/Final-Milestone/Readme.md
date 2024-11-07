@@ -32,9 +32,9 @@ Lab
 
 Given that AtalaPrism has ceased further development, there are currently no student groups oriented towards utilizing this product, resulting in the unavailability of data regarding the number of projects employing AtalaPrism. Nonetheless, Project team continues to provide support and mentorship to students engaged in scientific research as per usual practices. Documentation of meetings can be found at:
 
-    - [Day 1](https://youtu.be/H5g-h7-KTWQ)
-    - [Day 2](https://youtu.be/Uhtw6Bhb-LI)
-    - [Day 3](https://youtu.be/jp56vd3A63U)
+   - [Day 1](https://youtu.be/H5g-h7-KTWQ)
+   - [Day 2](https://youtu.be/Uhtw6Bhb-LI)
+   - [Day 3](https://youtu.be/jp56vd3A63U)
 
 ## Project close out report
 ## A copy of meeting minutes, completion report will be published on github
