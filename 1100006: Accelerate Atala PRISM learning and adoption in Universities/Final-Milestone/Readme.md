@@ -19,9 +19,14 @@
 ## An update version of AP101, 102, 103 course materials 
 As part of our responsibility for milestone 4 and the final milestone, we have made the following changes and edits to the document.
 
-Adding
-Removing
-Lab
+ |  No |  Document | Date  | Updated  |By  |
+| ------------ | ------------ | ------------ | ------------ |------------ |
+| 1  | [AP 101 & Governance Framework](https://docs.google.com/presentation/d/1vdMFkAbCgVobLu9A22aGNIiDNNMUhyoJWedT2PACqOY/edit?usp=sharing)  |  17 Sept 2024 | Update  DID roadmap slide 2  | Tien Nguyen Anh  |
+| 2  | [AP 101 & Governance Framework](https://docs.google.com/presentation/d/1vdMFkAbCgVobLu9A22aGNIiDNNMUhyoJWedT2PACqOY/edit?usp=sharing)  |  20 Sept 2024 | Update  DID roadmap slide 3, 4  |Tien Nguyen Anh  |
+| 3  | [AP 101 & Governance Framework](https://docs.google.com/presentation/d/1vdMFkAbCgVobLu9A22aGNIiDNNMUhyoJWedT2PACqOY/edit?usp=sharing)  |  20 Sept 2024 | Update Example slide 43  |Tien Nguyen Anh  |
+| 4 | [AP 102](https://docs.google.com/presentation/d/12Ye5wRHoywf5ZkV3QT1XbGxhIXQn4IDDzU_QLnzbM5I/edit?usp=sharing)  |  18 Sept 2024 |  Create new document |Tien Nguyen Anh  |
+| 5 | [AP 102](https://docs.google.com/presentation/d/12Ye5wRHoywf5ZkV3QT1XbGxhIXQn4IDDzU_QLnzbM5I/edit?usp=sharing)  |  28 Sept 2024 |  Release version 1 |Tien Nguyen Anh  |
+
 
 
 ## Pictures and summary as evidences
