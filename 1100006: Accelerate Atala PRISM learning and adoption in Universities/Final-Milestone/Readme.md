@@ -29,10 +29,11 @@ Lab
   -  Coaching [Careblock Team](https://www.youtube.com/watch?v=GhWtDi4xe0E?t=1913) in MS3
   -  Coaching [Student](https://youtu.be/JuiIePafo74) in MS4
   -  DID Coaching session [1/11/2024](https://youtu.be/1HOR4x4koLo) (above link)
+
 Since AtalaPrism has stopped development, there are no student groups with the orientation to use this product, so the number of projects using AtalaPrism is not available. However, the group still supports and coaches students in scientific research as usual. Evidence of meetings is available at:
-- [Day 1](https://youtu.be/H5g-h7-KTWQ)
-- [Day 2](https://youtu.be/Uhtw6Bhb-LI)
-- [Day 3]()
+  - [Day 1](https://youtu.be/H5g-h7-KTWQ)
+  - [Day 2](https://youtu.be/Uhtw6Bhb-LI)
+  - [Day 3](https://youtu.be/jp56vd3A63U)
 
 ## Project close out report
 ## A copy of meeting minutes, completion report will be published on github
