@@ -30,10 +30,11 @@ Lab
   -  Coaching [Student](https://youtu.be/JuiIePafo74) in MS4
   -  DID Coaching session [1/11/2024](https://youtu.be/1HOR4x4koLo) (above link)
 
-Since AtalaPrism has stopped development, there are no student groups with the orientation to use this product, so the number of projects using AtalaPrism is not available. However, the group still supports and coaches students in scientific research as usual. Evidence of meetings is available at:
-  - [Day 1](https://youtu.be/H5g-h7-KTWQ)
-  - [Day 2](https://youtu.be/Uhtw6Bhb-LI)
-  - [Day 3](https://youtu.be/jp56vd3A63U)
+Given that AtalaPrism has ceased further development, there are currently no student groups oriented towards utilizing this product, resulting in the unavailability of data regarding the number of projects employing AtalaPrism. Nonetheless, Project team continues to provide support and mentorship to students engaged in scientific research as per usual practices. Documentation of meetings can be found at:
+
+    - [Day 1](https://youtu.be/H5g-h7-KTWQ)
+    - [Day 2](https://youtu.be/Uhtw6Bhb-LI)
+    - [Day 3](https://youtu.be/jp56vd3A63U)
 
 ## Project close out report
 ## A copy of meeting minutes, completion report will be published on github
