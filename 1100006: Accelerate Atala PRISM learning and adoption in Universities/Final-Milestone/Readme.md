@@ -27,7 +27,7 @@ As part of our responsibility for milestone 4 and the final milestone, we have m
 | 4 | [AP 102](https://docs.google.com/presentation/d/12Ye5wRHoywf5ZkV3QT1XbGxhIXQn4IDDzU_QLnzbM5I/edit?usp=sharing)  |  18 Sept 2024 |  Create new AP102 slide |Tien Nguyen Anh  |
 | 5 | [AP 102](https://docs.google.com/presentation/d/12Ye5wRHoywf5ZkV3QT1XbGxhIXQn4IDDzU_QLnzbM5I/edit?usp=sharing)  |  28 Sept 2024 |  Release of AP102 slide |Tien Nguyen Anh  |
 
-
+We have no update for AP103
 
 ## Pictures and summary as evidences
 - We have evidence of 1-1 coaching for groups here:
