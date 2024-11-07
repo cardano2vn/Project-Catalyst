@@ -42,6 +42,8 @@ Given that AtalaPrism has ceased further development, there are currently no stu
    - [Day 3](https://youtu.be/jp56vd3A63U)
 
 ## Project close out report
+- Project Close out [report](https://docs.google.com/document/d/1ZA-EX8nfmwehQQF3okASMDY-Ll-VEggrraACq0vV-FE/edit?usp=sharing)
+- Project Close out [video]()
 ## A copy of meeting minutes, completion report will be published on github
 We have a team gathering and perform the following internal meetings:
 - Sep 23, 2024 8:30 PM | Team Review Meeting
