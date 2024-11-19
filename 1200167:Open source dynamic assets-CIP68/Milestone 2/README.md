@@ -11,9 +11,9 @@
 The quotations have been reviewed and compared to ensure they meet the project requirements, with considerations for scalability, pricing, and technical compatibility.
 
 **Evidence**:  
-- Google cloud estimate summary: [Google Cloud Estimate Summary]()
-- Azure exported estimate summary: [Azure Exported Estimate Summary]()
-- AWS estimate summary: [AWS Estimate Summary]()
+- Google cloud estimate summary: [Google Cloud Estimate Summary](https://github.com/cardano2vn/Project-Catalyst/blob/main/1200167%3AOpen%20source%20dynamic%20assets-CIP68/Milestone%202/Google%20Cloud%20Estimate%20Summary.pdf)
+- Azure exported estimate summary: [Azure Exported Estimate Summary](https://github.com/cardano2vn/Project-Catalyst/blob/main/1200167%3AOpen%20source%20dynamic%20assets-CIP68/Milestone%202/Azure%20Exported%20Estimate.pdf)
+- AWS estimate summary: [AWS Estimate Summary](https://github.com/cardano2vn/Project-Catalyst/blob/main/1200167%3AOpen%20source%20dynamic%20assets-CIP68/Milestone%202/AWS%20Estimate.pdf)
 
 
 ## **2. Front-end/Backend code repository**  
