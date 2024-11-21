@@ -25,7 +25,7 @@ In this section, you will find the links to the repositories for both the front-
 ## **3. Demo video or description of what Front-end/backend module do?**  
 This section provides an update on the completion of our demo video, which illustrates the capabilities of both the front-end and back-end modules.
 
-- The demo video can be accessed here: [Link Video Demo](https://drive.google.com/file/d/1eE-gL2C3RtkkRcotNboIhjr2EFVn-Ei6/view)
+- The demo video can be accessed here: [Link Video Demo](https://www.youtube.com/watch?v=GzEyzRX6gUM)
 
 
 ## **4. Our weekly meeting minutes**  
