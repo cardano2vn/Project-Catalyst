@@ -1,0 +1,12 @@
+service_display_name,name,quantity,region,service_id,sku,"total_price, USD",notes
+CIP68 (Compute Engine),Commitment: Compute optimized Core running in Virginia for 1 Year,5840.0,us-east4,6F81-5844-456A,0C8B-FB40-DC4B,133.77688,
+CIP68 (Compute Engine),Commitment: Compute optimized Ram running in Virginia for 1 Year,23360.0,us-east4,6F81-5844-456A,8DE8-80FC-EC11,71.7152,
+CIP68 (Compute Engine),Balanced PD Capacity in Virginia,400.0,us-east4,6F81-5844-456A,7D52-6D58-14FF,44,
+,,,,,,,
+,,,,,Total Price:,249.49208,
+,,,,,,,
+"Prices are in US dollars, effective date is 2024-11-26T14:18:05.902Z",,,,,,,
+,,,,,,,
+The estimated fees provided by Google Cloud Pricing Calculator are for discussion purposes only and are not binding on either you or Google. Your actual fees may be higher or lower than the estimate.,,,,,,,
+,,,,,,,
+Url to the estimate:,https://cloud.google.com/calculator?dl=CjhDaVJrTVRNNE5tTTBZeTB5TlRCaUxUUTRZV0l0T0RJeFpTMDBZakkxTUdFeFptSXlZVGdRQVE9PRokMjYzQTNDQzQtNkUwQy00QkExLTlGQjMtODVEN0MxMThDQzA3,,,,,,
