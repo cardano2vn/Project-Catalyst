@@ -7,7 +7,7 @@
 
 **Dear Reviewers,**
 
-Thank you very much for your detailed and valuable feedback. We have carefully reviewed and made the necessary adjustments based on your suggestions. Specifically, we have updated the quotations from cloud providers (Azure, AWS, GCP) and the blockchain provider (Blockfrost), with detailed explanations regarding our choices. These documents have been updated in the README file on GitHub for your easy reference.
+Thank you very much for your detailed and valuable feedback. We have carefully reviewed and made the necessary adjustments based on your suggestions. Specifically, we have created a video to explain how VPS specification, quotations from cloud providers (Azure, AWS, GCP) and the blockchain provider (Blockfrost) are made.
 
 Regarding the demo video, we have created a new video that presents in detail the functionalities of the frontend and backend, helping you better understand how the modules actually work.
 
