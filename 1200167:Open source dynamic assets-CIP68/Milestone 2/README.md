@@ -5,10 +5,25 @@
 |  Link  |  [Open full project](https://milestones.projectcatalyst.io/projects/1200167/) |
 
 
+**Dear Reviewers,**
+
+Thank you very much for your detailed and valuable feedback. We have carefully reviewed and made the necessary adjustments based on your suggestions. Specifically, we have updated the quotations from cloud providers (Azure, AWS, GCP) and the blockchain provider (Blockfrost), with detailed explanations regarding our choices. These documents have been updated in the README file on GitHub for your easy reference.
+
+Regarding the demo video, we have created a new video that presents in detail the functionalities of the frontend and backend, helping you better understand how the modules actually work.
+
+We hope these adjustments meet your requirements, and we look forward to receiving your feedback. Should you have any further questions or requests, please feel free to contact us.
+
+Once again, thank you for taking the time and effort to review the project. We truly value your input.
+
+Please help to review and approve.
+
+**We are appreciated for your strong support!**
 
 
 ## **1. Quotation from the vendors with similar specifications**  
-The quotations have been reviewed and compared to ensure they meet the project requirements, with considerations for scalability, pricing, and technical compatibility.
+We  made [a video](https://youtu.be/JLPLQbbqhjM) demonstrating how to sizing VPS specification and create qoutations on Cloud providers.
+
+These are the exported qoutations based on the available features of the Cloud providers.
 
 **Evidence**:  
 - [Google Cloud Quotation](https://github.com/cardano2vn/Project-Catalyst/blob/main/1200167%3AOpen%20source%20dynamic%20assets-CIP68/Milestone%202/GCP%20Qoutation.csv)
@@ -47,20 +62,3 @@ Regarding project management, all information related to reviewing pending tasks
 
 
 
-## **The report has been updated with the following points based on MR's comments.** 
-
-Dear Reviewers,
-
-Thank you very much for your detailed and valuable feedback. We have carefully reviewed and made the necessary adjustments based on your suggestions. Specifically, we have updated the quotations from cloud providers (Azure, AWS, GCP) and the blockchain provider (Blockfrost), with detailed explanations regarding our choices. These documents have been updated in the README file on GitHub for your easy reference.
-
-Regarding the demo video, we have created a new video that presents in detail the functionalities of the frontend and backend, helping you better understand how the modules actually work.
-
-We hope these adjustments meet your requirements, and we look forward to receiving your feedback. Should you have any further questions or requests, please feel free to contact us.
-
-Once again, thank you for taking the time and effort to review the project. We truly value your input.
-
-Please help to review and approve.
-
-**We are appreciated for your strong support!**
-
----
