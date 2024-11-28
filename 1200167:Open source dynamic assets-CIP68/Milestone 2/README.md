@@ -34,9 +34,11 @@ These are the exported qoutations based on the available features of the Cloud p
 
 ## **2. Front-end/Backend code repository**  
 
-In this section, you will find the links to the repositories for both the front-end and back-end code of the project.
+In this section, you will find the links to the repositories for both the front-end and back-end code of the project. 
 
 - Frontend/Backend Github link: [Frontend/Backend Github](https://github.com/cardano2vn/cip68generator)
+
+Please note that: Deployment guide will be availabe at final milestone
 
 
 ## **3. Demo video or description of what Front-end/backend module do?**  
