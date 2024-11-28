@@ -13,11 +13,9 @@ Regarding the demo video, we have created a new video that presents in detail th
 
 We hope these adjustments meet your requirements, and we look forward to receiving your feedback. Should you have any further questions or requests, please feel free to contact us.
 
-Once again, thank you for taking the time and effort to review the project. We truly value your input.
+Once again, thank you for taking the time and effort to review the project. We truly value your inputs.
 
-Please help to review and approve.
 
-**We are appreciated for your strong support!**
 
 
 ## **1. Quotation from the vendors with similar specifications**  
