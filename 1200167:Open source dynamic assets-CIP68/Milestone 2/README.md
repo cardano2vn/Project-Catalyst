@@ -50,8 +50,8 @@ This section provides an update on the completion of our demo video, which illus
 
 Here are the key meetings that have been recorded to track progress, address challenges, and plan the next steps of the project:
 
-- C2VN: Regular meeting F12 proposals 16/10/2024 -[1200167]: [Recording](https://youtu.be/7X_SfW__VWA) - [Meeting minutes](https://docs.google.com/document/d/1rxQ3xoD1EAyxYumkiABE0jMjem8gUhPZNdaCBBIfpjg/edit?tab=t.0#heading=h.m2rv0llvy83k)
-- C2VN: Regular meeting F12 proposals 28/10/2024 -[1200167]: [Recording](https://youtu.be/fQ7vWrSnm4M) - [Meeting minutes](https://docs.google.com/document/d/1bSHF8i61pYlZ8ExR_pJrfilABf-OehkT/edit?usp=drive_link&ouid=107549707092065987144&rtpof=true&sd=true)
+- C2VN: Regular meeting F12 proposals 16/10/2024 -[1200167]: [Recording](https://youtu.be/7X_SfW__VWA) - [Meeting minutes](https://github.com/cardano2vn/Project-Catalyst/blob/main/1200167%3AOpen%20source%20dynamic%20assets-CIP68/Milestone%202/%5BEnglish%5D%20Meeting%20Minutes%20_%201200167-Open%20source%20dynamic%20assets%20generator%20CIP68.pdf)
+- C2VN: Regular meeting F12 proposals 28/10/2024 -[1200167]: [Recording](https://youtu.be/fQ7vWrSnm4M) - [Meeting minutes](https://github.com/cardano2vn/Project-Catalyst/blob/main/1200167%3AOpen%20source%20dynamic%20assets-CIP68/Milestone%202/28_10_2024%20_%201200167%20-%20Open%20source%20dynamic%20assets%20%20CIP68.docx.pdf)
 
 
 
