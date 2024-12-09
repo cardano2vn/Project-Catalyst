@@ -13,15 +13,15 @@
 **Finding:**
 
 The output of the survey:
-- Vietnamese: [output](https://docs.google.com/spreadsheets/d/13P1sT6i4_Mu1zHzoW86HD3EWUF60m7xGPFPKC_P6ahY/edit?usp=sharing)
-- English: [output](https://docs.google.com/spreadsheets/d/1b_igBAw7ERNkcEkDSlroyFxZMDoVLKe2gpptOlc-xQM/edit?gid=1855598836#gid=1855598836)
+- Vietnamese: [output](https://github.com/cardano2vn/Project-Catalyst/blob/main/1200167%3AOpen%20source%20dynamic%20assets-CIP68/Milestone1/Kh%E1%BA%A3o%20S%C3%A1t%20%C3%9D%20Ki%E1%BA%BFn%20V%E1%BB%81%20%E1%BB%A8ng%20D%E1%BB%A5ng%20T%E1%BA%A1o%20v%C3%A0%20Ch%E1%BB%89nh%20S%E1%BB%ADa%20NFT%20CIP-68%20(Responses).xlsx)
+- English: [output](https://github.com/cardano2vn/Project-Catalyst/blob/main/1200167%3AOpen%20source%20dynamic%20assets-CIP68/Milestone1/%5BEnglish%5D%20CIP-68%20NFT%20Creation%20and%20Editing%20App%20Opinion%20Survey%20(Responses).xlsx)
 
-We had a meeting to summary all findings in a document at [Basic functions for users and Basic functions for systems](https://docs.google.com/document/d/15gFI704agtMpBgvTX0tLThB63G1wrdTwP4vB5Bx6W-E/edit?usp=sharing)
+We had a meeting to summary all findings in a document at [Basic functions for users and Basic functions for systems](https://github.com/cardano2vn/Project-Catalyst/blob/main/1200167%3AOpen%20source%20dynamic%20assets-CIP68/Milestone1/1200167-Open%20source%20dynamic%20assets%20%20CIP68-PRD-EN.pdf)
 
 ## Team structures and Working schedule document
 
 For information related to the team structures and working schedule document, please access the following link: 
-[PRD](https://docs.google.com/document/d/15gFI704agtMpBgvTX0tLThB63G1wrdTwP4vB5Bx6W-E/edit?tab=t.0)
+[PRD](https://github.com/cardano2vn/Project-Catalyst/blob/main/1200167%3AOpen%20source%20dynamic%20assets-CIP68/Milestone1/1200167-Open%20source%20dynamic%20assets%20%20CIP68-PRD-EN.pdf)
 
 ## Application Architecture and UI/UX design document
 - Application Architecture is design as [this model](https://github.com/cardano2vn/fund11/blob/main/1200167%3AOpen%20source%20dynamic%20assets-CIP68/Milestone1/system%20design.pdf)
@@ -30,10 +30,10 @@ For information related to the team structures and working schedule document, pl
 
 ## Meeting minutes report
 
-- C2VN: Regular meeting F12 proposals 22/07/2024 -[1200167]: [Recording](https://youtu.be/7w0_lQuvtTA) - [Meeting minutes](https://docs.google.com/document/d/1S93mOBVdFaleu613iaJan4ft9oamwMOfoyjSFcjcFoo/edit?usp=sharing)
-- C2VN: Regular meeting F12 proposals 26/08/2024 -[1200167]: [Recording](https://youtu.be/1EgM5uGrUcI) - [Meeting minutes](https://docs.google.com/document/d/1S93mOBVdFaleu613iaJan4ft9oamwMOfoyjSFcjcFoo/edit?usp=sharing)
-- C2VN: Regular meeting F12 proposals 06/09/2024 -[1200167]: [Recording](https://youtu.be/8h2wNqob5Ao) - [Meeting minutes](https://docs.google.com/document/d/1S93mOBVdFaleu613iaJan4ft9oamwMOfoyjSFcjcFoo/edit?usp=sharing)
-- C2VN: Regular meeting F12 proposals 30/09/2024 -[1200167]: [Recording](https://youtu.be/1dQPjWRKSyE)
+- C2VN: Regular meeting F12 proposals 22/07/2024 -[1200167]: [Recording](https://youtu.be/7w0_lQuvtTA) - [Meeting minutes](https://github.com/cardano2vn/Project-Catalyst/blob/main/1200167%3AOpen%20source%20dynamic%20assets-CIP68/Milestone1/%5BEnglish%5D%20Meeting%20Minutes%20_%201200167-Open%20source%20dynamic%20assets%20generator%20CIP68.pdf)
+- C2VN: Regular meeting F12 proposals 26/08/2024 -[1200167]: [Recording](https://youtu.be/1EgM5uGrUcI) - [Meeting minutes](https://github.com/cardano2vn/Project-Catalyst/blob/main/1200167%3AOpen%20source%20dynamic%20assets-CIP68/Milestone1/%5BEnglish%5D%20Meeting%20Minutes%20_%201200167-Open%20source%20dynamic%20assets%20generator%20CIP68.pdf)
+- C2VN: Regular meeting F12 proposals 06/09/2024 -[1200167]: [Recording](https://youtu.be/8h2wNqob5Ao) - [Meeting minutes](https://github.com/cardano2vn/Project-Catalyst/blob/main/1200167%3AOpen%20source%20dynamic%20assets-CIP68/Milestone1/%5BEnglish%5D%20Meeting%20Minutes%20_%201200167-Open%20source%20dynamic%20assets%20generator%20CIP68.pdf)
+- C2VN: Regular meeting F12 proposals 30/09/2024 -[1200167]: [Recording](https://youtu.be/1dQPjWRKSyE) - [Meeting minutes](https://github.com/cardano2vn/Project-Catalyst/blob/main/1200167%3AOpen%20source%20dynamic%20assets-CIP68/Milestone1/%5BEnglish%5D%20Meeting%20Minutes%20_%201200167-Open%20source%20dynamic%20assets%20generator%20CIP68.pdf)
 
 **Update:**
 We have made some changes to our meeting minutes reporting. Specifically, all weekly meeting minutes will now be stored at the following Drive link: [Weekly Meeting Minutes](https://docs.google.com/document/d/1bSHF8i61pYlZ8ExR_pJrfilABf-OehkT/edit?usp=sharing&ouid=100538284716472257568&rtpof=true&sd=true).
@@ -48,11 +48,11 @@ Regarding project management, all information related to reviewing pending tasks
 - **You need to translate any non-English content into English, whether it's related to funding, surveys, or anything else**
   
 Thank you, We have translated the documents into English.
-The output of the survey: English: [output](https://docs.google.com/spreadsheets/d/1b_igBAw7ERNkcEkDSlroyFxZMDoVLKe2gpptOlc-xQM/edit?gid=1855598836#gid=1855598836)
+The output of the survey: English: [output](https://github.com/cardano2vn/Project-Catalyst/blob/main/1200167%3AOpen%20source%20dynamic%20assets-CIP68/Milestone1/%5BEnglish%5D%20CIP-68%20NFT%20Creation%20and%20Editing%20App%20Opinion%20Survey%20(Responses).xlsx)
 
 - **The document on 'Basic Functions for Users and Basic Functions for Systems' is incomplete. Where is the content for section 6? Where are the reference links?**
 
-  We have added content to Section 6-Non functional /user requirements - [reflink](https://docs.google.com/document/d/15gFI704agtMpBgvTX0tLThB63G1wrdTwP4vB5Bx6W-E/edit?usp=sharing)
+  We have added content to Section 6-Non functional /user requirements - [reflink](https://github.com/cardano2vn/Project-Catalyst/blob/main/1200167%3AOpen%20source%20dynamic%20assets-CIP68/Milestone1/1200167-Open%20source%20dynamic%20assets%20%20CIP68-PRD-EN.pdf)
   ![image](https://github.com/user-attachments/assets/defab457-190c-454e-be54-b910aa5bcdf1)
 
  
@@ -71,7 +71,7 @@ The output of the survey: English: [output](https://docs.google.com/spreadsheets
   
 - **The evidence mentions team structures, working schedules, and meeting minutes, indicating project management activities. However, the project management aspects, such as 'Reviewing all pending tasks and planning, assigning tasks to members,' are not outlined.**
 
-   Yes, we create [new meeting report](https://docs.google.com/document/d/1bSHF8i61pYlZ8ExR_pJrfilABf-OehkT/edit?usp=sharing&ouid=100538284716472257568&rtpof=true&sd=true) to track the progres
+   Yes, we create [new meeting report](https://github.com/cardano2vn/Project-Catalyst/blob/main/1200167%3AOpen%20source%20dynamic%20assets-CIP68/Milestone1/Template%20Meeting%20Minutes%20_%201200167%20-%20Open%20source%20dynamic%20assets%20%20CIP68.docx.pdf) to track the progres
   and use [WBS](https://docs.google.com/spreadsheets/d/1BZDGPv1d1MHMyX7ycNraAZght-hz44lT/edit?usp=sharing&ouid=100538284716472257568&rtpof=true&sd=true) to assign task to member
 
   Please help to review and approve
