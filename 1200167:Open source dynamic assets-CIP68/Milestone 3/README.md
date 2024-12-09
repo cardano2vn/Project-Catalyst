@@ -21,6 +21,7 @@ Outline all the neccessary requirements and functionality based on user needs ga
 Moreover, to make it easier for users, we provide a detailed smart contract specification design, testcase smart contract, and guide video explaining how the smart contract works, including the model, source code, testcase and more. You can follow it through the links below: 
 
   - Smart contract specification design: [Smart Contract Specification Design Link](https://docs.google.com/spreadsheets/d/1JKXN7hoDat5nHQ5JGS_TP_tEAi2llWwrZgNa5XWNc4s/edit?gid=0#gid=0)
+  - Smart contract flowchart: [Flow Chart Link](https://www.figma.com/design/0cLsszCUqhxKePEOwIRw4C/CIP68-Generator?node-id=0-1&node-type=canvas&t=dJTWP4xbIbxBiGNO-0)
   - Smart contract testcase: [Testcase Link](https://docs.google.com/spreadsheets/d/1ruWcp5apOjjGKMPeRxGQuPQX2O91RAUwfXLSsDuUaI8/edit?gid=1026701423#gid=1026701423)
   - Smart contract video guide: [Video Guide Link](https://drive.google.com/file/d/1arHXyMzxRb9tjP5npqbq6z61dSmwNnvp/view?usp=drive_link)
 
