@@ -51,7 +51,7 @@ This section provides an update on the completion of our demo video, which illus
 Here are the key meetings that have been recorded to track progress, address challenges, and plan the next steps of the project:
 
 - C2VN: Regular meeting F12 proposals 16/10/2024 -[1200167]: [Recording](https://youtu.be/7X_SfW__VWA) - [Meeting minutes](https://docs.google.com/document/d/1rxQ3xoD1EAyxYumkiABE0jMjem8gUhPZNdaCBBIfpjg/edit?tab=t.0#heading=h.m2rv0llvy83k)
-- C2VN: Regular meeting F12 proposals 29/10/2024 -[1200167]: [Recording](https://youtu.be/fQ7vWrSnm4M) - [Meeting minutes](https://docs.google.com/document/d/1bSHF8i61pYlZ8ExR_pJrfilABf-OehkT/edit?usp=drive_link&ouid=107549707092065987144&rtpof=true&sd=true)
+- C2VN: Regular meeting F12 proposals 28/10/2024 -[1200167]: [Recording](https://youtu.be/fQ7vWrSnm4M) - [Meeting minutes](https://docs.google.com/document/d/1bSHF8i61pYlZ8ExR_pJrfilABf-OehkT/edit?usp=drive_link&ouid=107549707092065987144&rtpof=true&sd=true)
 
 
 
