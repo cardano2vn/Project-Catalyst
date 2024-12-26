@@ -18,7 +18,7 @@ Outline all the neccessary requirements and functionality based on user needs ga
  
 
 
-Moreover, to make it easier for users, we provide a detailed smart contract specification design, testcase smart contract, and guide video explaining how the smart contract works, including the model, source code, testcase and more. You can follow it through the links below: 
+Moreover, to make it easier for users, we **provide an extra** smart contract specification design, testcase smart contract, and guide video explaining how the smart contract works, including the model, source code, testcase and more. You can follow it through the links below: 
 
   - Smart contract specification design: [Smart Contract Specification Design Link](https://docs.google.com/spreadsheets/d/1JKXN7hoDat5nHQ5JGS_TP_tEAi2llWwrZgNa5XWNc4s/edit?gid=0#gid=0)
   - Smart contract flowchart: [Flow Chart Link](https://www.figma.com/design/0cLsszCUqhxKePEOwIRw4C/CIP68-Generator?node-id=0-1&node-type=canvas&t=dJTWP4xbIbxBiGNO-0)
@@ -44,9 +44,9 @@ Details the assessment performed on the smart contract, identifying and addressi
 
 Smart contract vulnerable assessment reports: 
 
-  - Assessment report 01: [SMC Vulnerable Assessment Link Report 01]()
-  - Assessment report 02: [SMC Vulnerable Assessment Link Report 02]()
-  - Assessment report 03: [SMC Vulnerable Assessment Link Report 03]()
+  - Assessment report 01: [SMC Vulnerable Assessment Link Report 01](https://github.com/cardano2vn/Project-Catalyst/blob/main/1200167%3AOpen%20source%20dynamic%20assets-CIP68/Milestone%203/CIP68%20Smart%20contract%20vulnerables%20assessment%20-HIEU.pdf)
+  - Assessment report 02: [SMC Vulnerable Assessment Link Report 02](https://github.com/cardano2vn/Project-Catalyst/blob/main/1200167%3AOpen%20source%20dynamic%20assets-CIP68/Milestone%203/CIP68%20Smart%20contract%20vulnerables%20assessment%20report%20-NHAN.pdf)
+  - Assessment report 03: [SMC Vulnerable Assessment Link Report 03](https://github.com/cardano2vn/Project-Catalyst/blob/main/1200167%3AOpen%20source%20dynamic%20assets-CIP68/Milestone%203/CIP68%20Smart%20contract%20vulnerables%20assessment%20report%20-%20Tien.pdf)
 
 
 ## **4. Our weekly meeting minutes** 
