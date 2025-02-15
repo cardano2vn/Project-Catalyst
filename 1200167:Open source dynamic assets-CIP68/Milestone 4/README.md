@@ -7,18 +7,32 @@
 
 **Overview**
 
+CIP68 Generator project has made significant progress towards achieving its goals in Milestone 4. This milestone includes several key deliverables, such as:
+1. The URL of dApp on the preview network
+2. Document about feedback
+3. Bug bounty report
+4. Document about the link of posts
+5. Meeting minutes reports (cover all weekly meeting records)
+6. Project management
 
+This report provides comprehensive documentation of all completed activities and progress made in this milestone.
+
+
+---
 
 ## **1. The URL Of DApp On The Preview Network**
+
 Provides the link to the deployed version of the CIP68 Generator on the preview network.
 
 **Evidence**: 
+
 - CIP68 Generator Preview Network: [CIP68 Generator](https://cip68.cardano2vn.io/)
 
 
 ---
 
 ## **2. Document About Feedback** 
+
 This includes the feedback collected from users, which has been compiled and analyzed to improve the project. It also includes the feedback form, the responses, and the final results report.
 
 **Evidence**:  
@@ -33,6 +47,7 @@ This includes the feedback collected from users, which has been compiled and ana
 ---
 
 ## **3. Bug Bounty Report**  
+
 Provides the documentation related to the Bug Bounty Program, including the registration form, responses, and the final report which outlines the bugs discovered, their resolutions, and the overall results.
 
 **Evidence**:  
@@ -50,7 +65,8 @@ Provides the documentation related to the Bug Bounty Program, including the regi
 
 
 
-## **4. Document About The Link Of Posts**  
+## **4. Document About The Link Of Posts**
+
 It includes a spreadsheet that tracks the marketing posts related to promoting the project. The spreadsheet shows the status of each post and helps track the progress of the promotional campaign.
 
 **Evidence**:  
