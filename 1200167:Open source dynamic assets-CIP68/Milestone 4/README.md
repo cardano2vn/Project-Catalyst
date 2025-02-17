@@ -90,12 +90,11 @@ Here are the key meetings that have been recorded to track progress, address cha
 
 **M1/2025:**
 - C2VN: Regular meeting F12 proposals 06/01/2025 -[1200167]: [Recording](https://youtu.be/_HSItwdSFXs) - [Meeting minutes](https://docs.google.com/document/d/1yee7yJOHyG82octKRlZpDHDChb-6Y_ir/edit?usp=drive_link&ouid=107549707092065987144&rtpof=true&sd=true)
-- C2VN: Regular meeting F12 proposals 13/01/2025 -[1200167]: [Recording](#) - [Meeting minutes](https://docs.google.com/document/d/1XbV4aOfjuLLrkhE2ma4k-j6Z9Ldk5GFN/edit?usp=drive_link&ouid=107549707092065987144&rtpof=true&sd=true)
+- C2VN: Regular meeting F12 proposals 13/01/2025 -[1200167]: [Recording](https://www.youtube.com/watch?v=KfZqJHafH00) - [Meeting minutes](https://docs.google.com/document/d/1XbV4aOfjuLLrkhE2ma4k-j6Z9Ldk5GFN/edit?usp=drive_link&ouid=107549707092065987144&rtpof=true&sd=true)
 - C2VN: Regular meeting F12 proposals 20/01/2025 -[1200167]: [Recording](#) - [Meeting minutes](https://docs.google.com/document/d/1ENYyfx6rDh_RnxfbI1Ni3YVlpCYQpquZ/edit?usp=drive_link&ouid=107549707092065987144&rtpof=true&sd=true)
 
 **M2/2025:**
-- C2VN: Regular meeting F12 proposals 10/02/2025 -[1200167]: [Recording](#) - [Meeting minutes](https://docs.google.com/document/d/1s40H3Fy62k6zouu3XfDhjSO2muZkQu8o/edit?usp=drive_link&ouid=107549707092065987144&rtpof=true&sd=true)
-- C2VN: Regular meeting F12 proposals 17/02/2025 -[1200167]: [Recording](#) - [Meeting minutes](#)
+- C2VN: Regular meeting F12 proposals 10/02/2025 -[1200167]: [Recording](https://www.youtube.com/watch?v=Wq95Ym5eWP8) - [Meeting minutes](https://docs.google.com/document/d/1s40H3Fy62k6zouu3XfDhjSO2muZkQu8o/edit?usp=drive_link&ouid=107549707092065987144&rtpof=true&sd=true)
 ---
 
 ## **5. Project management**  
