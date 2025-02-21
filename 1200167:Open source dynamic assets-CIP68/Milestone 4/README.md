@@ -40,8 +40,8 @@ This includes the feedback collected from users, which has been compiled and ana
 - CIP68 Generator Feedback Form: [CIP68 Generator Feedback Form](https://forms.gle/xtEPAYvpfmxcjyzdA)
 - Responses to CIP68 Generator Feedback Form: [Feedback Responses](https://docs.google.com/spreadsheets/d/1SnWBBmHqKiH6R0OLN2SCDOcHjQ2lKNt0Ix25gaoDxWs/edit?gid=649125035#gid=649125035)
 - User Feedback Results Report:
-  - [Vietnamese Version](#)  
-  - [English Version](#)
+  - [Vietnamese Version](https://docs.google.com/document/d/1dFKK6_JOSEV0gOLv81cgfuGbJOWB2WWd5UhAOE6on3U/edit?tab=t.0#heading=h.e47c2iquioq6)  
+  - [English Version](https://docs.google.com/document/d/1L7oISvw9dJ4ANE0_8Px9i3SiOiyiMUu6WBabIDVnPGw/edit?tab=t.0)
  
 
 ---
@@ -58,7 +58,7 @@ Provides the documentation related to the Bug Bounty Program, including the regi
   - [Vietnamese Version](https://drive.google.com/file/d/1Xj0P-SIGFtqZE-Kl6m7nqdBrU3ngwduu/view?usp=drive_link)  
   - [English Version](https://drive.google.com/file/d/1nYN6RmpEjIfjcuWPpqyPY3aeC4iTzYrI/view?usp=sharing)
 - Bug Bounty Program Final Report:  
-  - [Vietnamese Version](#)  
+  - [Vietnamese Version](https://docs.google.com/document/d/1oGaLBQAGX3L4uLUSoIrmtdGdov3I92VyVdxqwBx0Nm4/edit?tab=t.0)  
   - [English Version](#)
 
 ---
