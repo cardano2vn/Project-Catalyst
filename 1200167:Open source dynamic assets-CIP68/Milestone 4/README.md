@@ -59,7 +59,7 @@ Provides the documentation related to the Bug Bounty Program, including the regi
   - [English Version](https://drive.google.com/file/d/1nYN6RmpEjIfjcuWPpqyPY3aeC4iTzYrI/view?usp=sharing)
 - Bug Bounty Program Final Report:  
   - [Vietnamese Version](https://docs.google.com/document/d/1oGaLBQAGX3L4uLUSoIrmtdGdov3I92VyVdxqwBx0Nm4/edit?tab=t.0)  
-  - [English Version](#)
+  - [English Version](https://docs.google.com/document/d/1Smycp-XALgKRHE4jRghNZKh-Lc9JI-NAeSf6QSmprHk/edit?tab=t.0#heading=h.a8ogyyu4n6rn)
 
 ---
 
