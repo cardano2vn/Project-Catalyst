@@ -40,8 +40,8 @@ This includes the feedback collected from users, which has been compiled and ana
 - CIP68 Generator Feedback Form: [CIP68 Generator Feedback Form](https://forms.gle/xtEPAYvpfmxcjyzdA)
 - Responses to CIP68 Generator Feedback Form: [Feedback Responses](https://docs.google.com/spreadsheets/d/1SnWBBmHqKiH6R0OLN2SCDOcHjQ2lKNt0Ix25gaoDxWs/edit?gid=649125035#gid=649125035)
 - User Feedback Results Report:
-  - [Vietnamese Version](https://docs.google.com/document/d/1dFKK6_JOSEV0gOLv81cgfuGbJOWB2WWd5UhAOE6on3U/edit?tab=t.0#heading=h.e47c2iquioq6)  
-  - [English Version](https://docs.google.com/document/d/1L7oISvw9dJ4ANE0_8Px9i3SiOiyiMUu6WBabIDVnPGw/edit?tab=t.0)
+  - [Vietnamese Version](https://drive.google.com/file/d/1TPj5qFhrDBm24XuB0yfPlUGV5fOfE-UN/view?usp=drive_link)  
+  - [English Version](https://drive.google.com/file/d/1l6DmFFY0KOZPvJVAL_XF-2beuhJC6x2J/view?usp=drive_link)
  
 
 ---
@@ -58,8 +58,8 @@ Provides the documentation related to the Bug Bounty Program, including the regi
   - [Vietnamese Version](https://drive.google.com/file/d/1Xj0P-SIGFtqZE-Kl6m7nqdBrU3ngwduu/view?usp=drive_link)  
   - [English Version](https://drive.google.com/file/d/1nYN6RmpEjIfjcuWPpqyPY3aeC4iTzYrI/view?usp=sharing)
 - Bug Bounty Program Final Report:  
-  - [Vietnamese Version](https://docs.google.com/document/d/1oGaLBQAGX3L4uLUSoIrmtdGdov3I92VyVdxqwBx0Nm4/edit?tab=t.0)  
-  - [English Version](https://docs.google.com/document/d/1Smycp-XALgKRHE4jRghNZKh-Lc9JI-NAeSf6QSmprHk/edit?tab=t.0#heading=h.a8ogyyu4n6rn)
+  - [Vietnamese Version](https://drive.google.com/file/d/1K6GG5YcfjwCWcyK07O541CQu-nijawNp/view?usp=drive_link)  
+  - [English Version](https://drive.google.com/file/d/1bfKq_G30r4x5Ef1Xp6rInJ5jJKVmW1Y_/view?usp=drive_link)
 
 ---
 
@@ -79,22 +79,21 @@ It includes a spreadsheet that tracks the marketing posts related to promoting t
 
 Here are the key meetings that have been recorded to track progress, address challenges, and plan the next steps of the project:
 
-- C2VN: Regular meeting F12 proposals 04/11/2024 -[1200167]: [Recording](https://youtu.be/O36dwFICYmQ) - [Meeting minutes](https://docs.google.com/document/d/11TJK7x_ohuTATVBU42xj2l8wSgfF3IJ-/edit?usp=drive_link&ouid=107549707092065987144&rtpof=true&sd=true)
+- C2VN: Regular meeting F12 proposals 04/11/2024 -[1200167]: [Recording](https://youtu.be/O36dwFICYmQ) - [Meeting minutes](https://drive.google.com/file/d/1lDxDLA6sh5GFtEKYG2PCV2dAGFTt0QsX/view?usp=drive_link)
 
 **December 2024:**
-- C2VN: Regular meeting F12 proposals 02/12/2024 -[1200167]: [Recording](https://youtu.be/QC3XN_T4EQk) - [Meeting minutes](https://docs.google.com/document/d/1wGhMnRBdGPPI3nBs77_evRZslsE2Wze5/edit?usp=drive_link&ouid=107549707092065987144&rtpof=true&sd=true)
-- C2VN: Regular meeting F12 proposals 09/12/2024 -[1200167]: [Recording](https://youtu.be/qSeUOCRkmDk) - [Meeting minutes](https://docs.google.com/document/d/1vlUpOQ1lyjzwmv_GJb8MZWfnuI6dZ49v/edit?usp=drive_link&ouid=107549707092065987144&rtpof=true&sd=true)
-- C2VN: Regular meeting F12 proposals 16/12/2024 -[1200167]: [Recording](https://youtu.be/IWeBtfH8B_w) - [Meeting minutes](https://docs.google.com/document/d/1chWsZhXks1vTikCiN0v1ubaBhEirUMU5/edit?usp=drive_link&ouid=107549707092065987144&rtpof=true&sd=true)
-- C2VN: Regular meeting F12 proposals 23/12/2024 -[1200167]: [Recording](https://youtu.be/LQfDANHOpqc) - [Meeting minutes](https://docs.google.com/document/d/1mWgfSLi4c6PBygOZOmS_d9Hatg65YEc1/edit?usp=drive_link&ouid=107549707092065987144&rtpof=true&sd=true)
-- C2VN: Regular meeting F12 proposals 30/12/2024 -[1200167]: [Recording](https://youtu.be/QD_2P8x8TwY) - [Meeting minutes](https://docs.google.com/document/d/1c4N6XBqaZ_JXF5hK7BX4pVEkpbz96qC-/edit?usp=drive_link&ouid=107549707092065987144&rtpof=true&sd=true)
+- C2VN: Regular meeting F12 proposals 02/12/2024 -[1200167]: [Recording](https://youtu.be/QC3XN_T4EQk) - [Meeting minutes](https://drive.google.com/file/d/1L2NqyAg7cxK7ATROtb6rv3dBjVEJ9xR6/view?usp=drive_link)
+- C2VN: Regular meeting F12 proposals 09/12/2024 -[1200167]: [Recording](https://youtu.be/qSeUOCRkmDk) - [Meeting minutes](https://drive.google.com/file/d/1CmNTmmgQB7fjN82oQKOxav4ECjJIsM8i/view?usp=drive_link)
+- C2VN: Regular meeting F12 proposals 16/12/2024 -[1200167]: [Recording](https://youtu.be/IWeBtfH8B_w) - [Meeting minutes](https://drive.google.com/file/d/1s_1x8uCt_MtYkkRVQhHLP_hPFnG5pTN7/view?usp=drive_link)
+- C2VN: Regular meeting F12 proposals 23/12/2024 -[1200167]: [Recording](https://youtu.be/LQfDANHOpqc) - [Meeting minutes](https://drive.google.com/file/d/1SVx8h8QbWAhPWUj0hthSPsVI-Jtt5xHI/view?usp=drive_link)
+- C2VN: Regular meeting F12 proposals 30/12/2024 -[1200167]: [Recording](https://youtu.be/QD_2P8x8TwY) - [Meeting minutes](https://drive.google.com/file/d/1ABRez726y2plTf54icAo0zQfoIaeKgyC/view?usp=drive_link)
 
 **January 2025:**
-- C2VN: Regular meeting F12 proposals 06/01/2025 -[1200167]: [Recording](https://youtu.be/_HSItwdSFXs) - [Meeting minutes](https://docs.google.com/document/d/1yee7yJOHyG82octKRlZpDHDChb-6Y_ir/edit?usp=drive_link&ouid=107549707092065987144&rtpof=true&sd=true)
-- C2VN: Regular meeting F12 proposals 13/01/2025 -[1200167]: [Recording](https://www.youtube.com/watch?v=KfZqJHafH00) - [Meeting minutes](https://docs.google.com/document/d/1XbV4aOfjuLLrkhE2ma4k-j6Z9Ldk5GFN/edit?usp=drive_link&ouid=107549707092065987144&rtpof=true&sd=true)
-- C2VN: Regular meeting F12 proposals 20/01/2025 -[1200167]: [Recording](#) - [Meeting minutes](https://docs.google.com/document/d/1ENYyfx6rDh_RnxfbI1Ni3YVlpCYQpquZ/edit?usp=drive_link&ouid=107549707092065987144&rtpof=true&sd=true)
+- C2VN: Regular meeting F12 proposals 06/01/2025 -[1200167]: [Recording](https://youtu.be/_HSItwdSFXs) - [Meeting minutes](https://drive.google.com/file/d/11sYuZwdVrbS81tzxv1V-Nq0L32dGa0Cr/view?usp=drive_link)
+- C2VN: Regular meeting F12 proposals 13/01/2025 -[1200167]: [Recording](https://www.youtube.com/watch?v=KfZqJHafH00) - [Meeting minutes](https://drive.google.com/file/d/1iQC-_H_M8Q7mPopmz90J0f9GDGrbSAVb/view?usp=drive_link)
 
 **February 2025:**
-- C2VN: Regular meeting F12 proposals 10/02/2025 -[1200167]: [Recording](https://www.youtube.com/watch?v=Wq95Ym5eWP8) - [Meeting minutes](https://docs.google.com/document/d/1s40H3Fy62k6zouu3XfDhjSO2muZkQu8o/edit?usp=drive_link&ouid=107549707092065987144&rtpof=true&sd=true)
+- C2VN: Regular meeting F12 proposals 10/02/2025 -[1200167]: [Recording](https://www.youtube.com/watch?v=Wq95Ym5eWP8) - [Meeting minutes](https://drive.google.com/file/d/12p_IOOD3JDh9A5qQA04dubCra2zmqsBe/view?usp=drive_link)
 ---
 
 ## **5. Project management**  
