@@ -26,6 +26,6 @@ We would like to submit our PoA in Milestone 3.
 ## Workshop minutes include feedback/comments from professors
 ## Approval from Universities on updated version of textbooks/slides/labs
 ## Link to the posts on social networks:
-- [From EAUT](https://www.facebook.com/share/p/12Gjag8R47X/)
-- Form 
+- [EAUT](https://www.facebook.com/share/p/12Gjag8R47X/)
+- [UNETI](https://github.com/cardano2vn/Project-Catalyst/tree/main/1200002%3ACardano%20blockchain%20courseware%20in%20Universities)
 ## Meeting minutes which cover all project management tasks
