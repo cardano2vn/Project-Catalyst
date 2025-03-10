@@ -14,7 +14,14 @@ We would like to submit our PoA in Milestone 3.
 
 ## Updated version of textbooks/slides
 - intitial version
-- history of comments
+- History of comments from internal team
+  ![image](https://github.com/user-attachments/assets/03eaf1b1-6425-4fd9-bdd1-2a1ec08dbd98)
+
+  ![image](https://github.com/user-attachments/assets/8c6e3d8d-6948-4004-90d5-380f47953fcc)
+
+  ![image](https://github.com/user-attachments/assets/4f24171b-69c4-4c64-a5b9-854309258a89)
+
+
 - Final version
 ## Workshop minutes include feedback/comments from professors
 ## Approval from Universities on updated version of textbooks/slides/labs
