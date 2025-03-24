@@ -12,9 +12,13 @@ Some words in the email have been hidden to ensure privacy. We can absolutely co
 - At [UNETI](https://drive.google.com/drive/folders/1aHgRMHEtjqnaMX-x0at1Uc1HvmCJf_9_?usp=sharing)
 - At [UTC](https://drive.google.com/drive/folders/1f3G05SeGDybx7W68YM27FlkAq-MLB-ay?usp=sharing)
 - At [EAUT](https://drive.google.com/drive/folders/1wxBcJUXn0z8vj-CjJeAujAJUbValJepr?usp=sharing)
-- Online Classes: <iframe width="1310" height="737" src="https://www.youtube.com/embed/88UeYwok7M0" title="Programming on Cardano for beginners - Day1-15/3/2025" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+- Online Classes: 
   
-- The list of students of each Uni
+- List of students [registered for online courses](https://docs.google.com/spreadsheets/d/1yYSeK-P1KFU1QxCrEvcuB2nY3NBGzmpHJYuyVL_ACdA/edit?gid=1992747189#gid=1992747189)
+- List of students who have attended the course and [interacted, completed assignments](https://docs.google.com/spreadsheets/d/1yYSeK-P1KFU1QxCrEvcuB2nY3NBGzmpHJYuyVL_ACdA/edit?gid=673458355#gid=673458355)
+  _Please note that Some words in the email/mobile phone have been hidden to ensure privacy_
+
+
 
 Updated version of textbooks/slides
 Reports of feedbacks 
