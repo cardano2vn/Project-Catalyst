@@ -9,13 +9,13 @@
 ## Pictures taken at 03 classes
 Our initial goal was to have the course taught at only 2 schools with each class having more than 50 students. However, due to the **busy time of many students taking semester exams and preparing projects**, we had to expand the scope of implementation to teach at 3 schools and** 1 online class to have a suitable time slot for more students**.
 Some words in the email have been hidden to ensure privacy. We can absolutely confirm the accuracy of this data with MR or MR can see the list of online learners in the recording also reflects the number of students is more than 100 people.
-- Collection of pictures at --> [UNETI](https://drive.google.com/drive/folders/1aHgRMHEtjqnaMX-x0at1Uc1HvmCJf_9_?usp=sharing)
+- **Collection of pictures at -->** [UNETI](https://drive.google.com/drive/folders/1aHgRMHEtjqnaMX-x0at1Uc1HvmCJf_9_?usp=sharing)
   ![20250316_163741](https://github.com/user-attachments/assets/a32adcfc-01bb-4c2c-a167-51afac29bcf9)
 
-- Collection of pictures at --> [UTC](https://drive.google.com/drive/folders/1f3G05SeGDybx7W68YM27FlkAq-MLB-ay?usp=sharing)
+- **Collection of pictures at -->**[UTC](https://drive.google.com/drive/folders/1f3G05SeGDybx7W68YM27FlkAq-MLB-ay?usp=sharing)
   ![20250322_170723](https://github.com/user-attachments/assets/6770b717-cd30-40aa-84e8-2c67c9743b84)
 
-- **At** [EAUT](https://drive.google.com/drive/folders/1wxBcJUXn0z8vj-CjJeAujAJUbValJepr?usp=sharing)
+- **Collection of pictures at -->** [EAUT](https://drive.google.com/drive/folders/1wxBcJUXn0z8vj-CjJeAujAJUbValJepr?usp=sharing)
   ![20250309_111909](https://github.com/user-attachments/assets/4ce1e117-2e0a-45b2-969b-89a4e644b42b)
 
 - Online Classes,  Recording is available at [this link](https://youtu.be/88UeYwok7M0?t=4250):
@@ -45,11 +45,10 @@ Some words in the email have been hidden to ensure privacy. We can absolutely co
 
 
 
-**Online Class:
+**Online Class: Recording of this video is available [here](https://youtu.be/vxSJNJHF2YA?t=1405)
 **
 ![image](https://github.com/user-attachments/assets/cbf14781-9deb-4380-924c-1172371a1f36)
 
-Recording of this video is available [here](https://youtu.be/vxSJNJHF2YA?t=1405)
 
 ## Meeting minutes/Recording  
 Link to final closeout report
