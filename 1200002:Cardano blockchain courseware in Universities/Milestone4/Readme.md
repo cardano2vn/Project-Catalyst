@@ -36,7 +36,7 @@ The link of learning material
 
 **Online Class:
 **
-<iframe width="1310" height="737" src="https://www.youtube.com/embed/vxSJNJHF2YA" title="Programming on Cardano for beginners   Day2 22 3 2025" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vxSJNJHF2YA?start=1329" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Meeting minutes/Recording  
 Link to final closeout report
