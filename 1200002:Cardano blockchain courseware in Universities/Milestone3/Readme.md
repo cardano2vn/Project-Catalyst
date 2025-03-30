@@ -40,8 +40,17 @@ We would like to submit our PoA in Milestone 3 with detail deliveries below:
 
   
 ## Approval from Universities on updated version of textbooks/slides/labs
+I would like to translate the decision (the red circled part) as follows:
+```
+DECISION:
 
-![image](https://github.com/user-attachments/assets/0bd53fac-6340-4af9-a3fd-a70a80bd5a06)
+Article 1. Use the basic Blockchain textbook as teaching material for the "dApp Application Development" module - course code IT1.303.3 from the academic year 2025-2026.
+
+Article 2. Heads of departments: Faculty of Computer Science, Software Engineering, Networks & Information Systems, and Faculty Office; Lecturers teaching the "dApp Application Development" module are responsible for implementing this decision.
+```
+![image](https://github.com/user-attachments/assets/8f37213d-765b-4354-b2da-80b9ee4345e2)
+
+ 
 the scan version is at [this link](https://drive.google.com/file/d/1ntwu2r9ruLfdgw_6vMyVA8KDKakchghn/view?usp=sharing)
 
 
@@ -51,5 +60,13 @@ the scan version is at [this link](https://drive.google.com/file/d/1ntwu2r9ruLfd
 - [UNETI](https://www.facebook.com/share/p/1EUSiknjYA/)
   
 ## Meeting minutes which cover all project management tasks
+Here are our recording of our meetings:
+
+- Date: [Jan 19, 2025](https://www.youtube.com/watch?v=qOdFecDN9kg)
+- Date: [Feb 16, 2025]( https://www.youtube.com/watch?v=XWV8wu8Q-vs)
+- Date: [Feb 23, 2025]( https://www.youtube.com/watch?v=GXghg7pREg8)
+- Date: [Mar 2, 2025 ](https://www.youtube.com/watch?v=I0zC5jvY084)
+
+
 
 
