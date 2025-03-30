@@ -13,8 +13,8 @@ Thank for your support to our proposals.
 We would like to submit our PoA in Milestone 3 with detail deliveries below:
 
 ## Updated version of textbooks/slides
-- intitial version
-  the initial version of courseware could be found at this [link](https://docs.google.com/document/d/1x87XVDYQ23aOOU0axtJk7gBUJAzVRxFM/edit?usp=sharing&ouid=106811817203266848443&rtpof=true&sd=true)
+- Intitial version
+  the initial version of courseware could be found at ---> this [link](https://docs.google.com/document/d/1x87XVDYQ23aOOU0axtJk7gBUJAzVRxFM/edit?usp=sharing&ouid=106811817203266848443&rtpof=true&sd=true)
   
 - History of comments from internal team
   ![image](https://github.com/user-attachments/assets/03eaf1b1-6425-4fd9-bdd1-2a1ec08dbd98)
