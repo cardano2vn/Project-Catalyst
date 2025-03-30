@@ -60,7 +60,7 @@ the scan version is at [this link](https://drive.google.com/file/d/1ntwu2r9ruLfd
 - [UNETI](https://www.facebook.com/share/p/1EUSiknjYA/)
   
 ## Meeting minutes which cover all project management tasks
-Here are our recording of our meetings:
+Here are recordings of our meetings:
 
 - Date: [Jan 19, 2025](https://www.youtube.com/watch?v=qOdFecDN9kg)
 - Date: [Feb 16, 2025]( https://www.youtube.com/watch?v=XWV8wu8Q-vs)
