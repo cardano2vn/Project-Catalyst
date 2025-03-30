@@ -8,9 +8,9 @@
 
 **Great day to all Milestone Reviewers.**
 
-Thank for your contribution to our proposals.
+Thank for your support to our proposals.
 
-We would like to submit our PoA in Milestone 3.
+We would like to submit our PoA in Milestone 3 with detail deliveries below:
 
 ## Updated version of textbooks/slides
 - intitial version
@@ -46,6 +46,10 @@ the scan version is at [this link](https://drive.google.com/file/d/1ntwu2r9ruLfd
 
 
 ## Link to the posts on social networks:
+
 - [EAUT](https://www.facebook.com/share/p/12Gjag8R47X/)
 - [UNETI](https://www.facebook.com/share/p/1EUSiknjYA/)
+  
 ## Meeting minutes which cover all project management tasks
+
+
