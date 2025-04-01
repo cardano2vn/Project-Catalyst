@@ -90,7 +90,7 @@ Links to the public GitHub repository where the project’s source code is store
 - Code Repository on GitHub: [GitHub Repository](https://github.com/cardano2vn/cip68generator)
 ---
 
-## **7. Meeting Minutes (Contain Weekly Meeting Records)**
+## **7. Meeting Minutes (Contain All Weekly Meeting Records)**
 
 This section provides all the records of weekly meetings that track the progress, challenges, and next steps of the project.
 
