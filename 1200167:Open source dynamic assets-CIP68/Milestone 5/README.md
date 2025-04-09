@@ -78,7 +78,8 @@ This document provides a comprehensive user guide or tutorial for end users to u
 - User Guide/Tutorial Document: [User Guide/Tutorial](https://github.com/cardano2vn/cip68generator/wiki)
 - Smart contract video guide: [Video Guide Link](https://drive.google.com/file/d/1arHXyMzxRb9tjP5npqbq6z61dSmwNnvp/view?usp=drive_link)
 - The demo video (FE, BE) can be accessed here: [Video Demo Link](https://www.youtube.com/watch?v=GzEyzRX6gUM)
-- The demo video guide on the mainnet: [Video Guide Link]()
+- The demo video guide on the mainnet: [Video Guide Link](https://www.youtube.com/watch?v=fe_fjDptKUQ)
+- The demo video how to deploy our platform: [Deployment Demo Link](https://www.youtube.com/watch?v=wVQg-Y6ySDM)
 
 ---
 
