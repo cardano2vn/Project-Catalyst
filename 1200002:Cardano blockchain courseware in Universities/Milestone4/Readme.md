@@ -62,5 +62,11 @@ We received 32 feedbacks from students.
 
 
 ## Meeting minutes/Recording  
+Here are recordings of our meetings:
+
+Date: [Mar 2, 2025](https://www.youtube.com/watch?v=I0zC5jvY084)
+Date: [Mar 16, 2025](https://youtu.be/yjd0qBYECAA)
+Date: [Mar 30, 2025](https://www.youtube.com/watch?v=CWwvP_kZVn8)
+
 Link to final closeout report
 Link to final closeout video
