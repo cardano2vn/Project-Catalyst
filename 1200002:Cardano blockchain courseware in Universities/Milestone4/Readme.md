@@ -46,6 +46,7 @@ We received 32 feedbacks from students.
 
 ## Feedback in the learning materials
 ### Feed back from Dr. Cao Thi Luyen:
+```
 The course content covers important aspects of Blockchain technology,
 from basic knowledge, core concepts, popular platforms, consensus algorithms to new
 challenges and trends. This structure helps readers have a comprehensive overview of
@@ -58,8 +59,10 @@ of each chapter, helping learners easily review and systematize their knowledge.
 document mentions new trends such as Blockchain 3.0, Green Blockchain, Zero-
 Knowledge Proof (ZKP),... showing the update and close adherence to the development of 
 technology.
+```
 
 ### Feed back from Dr. Bui Hong Nhung:
+```
 This textbook is the first document in Vietnam to systematically and
 comprehensively systematize knowledge about Blockchain - a breakthrough
 technology that is strongly impacting many fields. In the context of increasing
@@ -75,7 +78,7 @@ deep expertise as well as the efforts and dedication of the author team.
 easily access and grasp the focus, each chapter should have a brief
 introduction about the objectives, main content and connection with
 Blockchain technology (Chapter 3 already has).
-
+```
 
 
 ## The link of learning material
