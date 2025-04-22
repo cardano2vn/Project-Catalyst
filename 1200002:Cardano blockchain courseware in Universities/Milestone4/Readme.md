@@ -30,11 +30,6 @@ Some words in the email have been hidden to ensure privacy. We can absolutely co
   _Please note that Some words in the email/mobile phone have been hidden to ensure privacy_
 
 
-
-## The link of open-source learning material
-
-The latest version of our text book has been publiced at [this link](https://github.com/cardano2vn/Project-Catalyst/blob/main/1200002%3ACardano%20blockchain%20courseware%20in%20Universities/Milestone4/Blockchain%20C%C6%A1%20B%E1%BA%A3n.pdf)
-
 ## Reports of feedbacks:
 We received 32 feedbacks from students.
 ![image](https://github.com/user-attachments/assets/bf252dec-a556-4308-a032-0657fc0fbd29)
@@ -46,6 +41,12 @@ We received 32 feedbacks from students.
 24/32 people rated the course as having content that matched their needs
 
 ![image](https://github.com/user-attachments/assets/770b3246-bc54-403e-8412-1bd2b09656bc)
+
+## The link of open-source learning material
+
+The latest version of our text book has been publiced at [this link](https://github.com/cardano2vn/Project-Catalyst/blob/main/1200002%3ACardano%20blockchain%20courseware%20in%20Universities/Milestone4/Blockchain%20C%C6%A1%20B%E1%BA%A3n.pdf)
+
+
 
 ## Feedback in the learning materials
 ### Feed back from Dr. Cao Thi Luyen:
