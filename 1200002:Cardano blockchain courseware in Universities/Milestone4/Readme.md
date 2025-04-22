@@ -31,8 +31,10 @@ Some words in the email have been hidden to ensure privacy. We can absolutely co
 
 
 
-## Updated version of textbooks/slides
-The latest version of our text book has been publiced at [this link] (https://github.com/cardano2vn/Project-Catalyst/blob/main/1200002%3ACardano%20blockchain%20courseware%20in%20Universities/Milestone4/Blockchain%20C%C6%A1%20B%E1%BA%A3n.pdf)
+## The link of open-source learning material
+
+The latest version of our text book has been publiced at [this link](https://github.com/cardano2vn/Project-Catalyst/blob/main/1200002%3ACardano%20blockchain%20courseware%20in%20Universities/Milestone4/Blockchain%20C%C6%A1%20B%E1%BA%A3n.pdf)
+
 ## Reports of feedbacks:
 We received 32 feedbacks from students.
 ![image](https://github.com/user-attachments/assets/bf252dec-a556-4308-a032-0657fc0fbd29)
@@ -108,4 +110,5 @@ Date: [Mar 16, 2025](https://youtu.be/yjd0qBYECAA)
 Date: [Mar 30, 2025](https://www.youtube.com/watch?v=CWwvP_kZVn8)
 
 Link to final closeout report
+
 Link to final closeout video
