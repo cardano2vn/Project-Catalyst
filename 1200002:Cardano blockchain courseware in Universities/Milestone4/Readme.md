@@ -32,7 +32,18 @@ Some words in the email have been hidden to ensure privacy. We can absolutely co
 
 
 ## Updated version of textbooks/slides
-## Reports of feedbacks 
+## Reports of feedbacks:
+We received 32 feedbacks from students.
+![image](https://github.com/user-attachments/assets/bf252dec-a556-4308-a032-0657fc0fbd29)
+
+81.3% of reviews gave the course a score of 9 and 10 (NPS Score) - corresponding to 26 people
+
+![image](https://github.com/user-attachments/assets/db9e0acc-079c-4024-a4e6-13b2bad6835a)
+
+24/32 people rated the course as having content that matched their needs
+
+![image](https://github.com/user-attachments/assets/770b3246-bc54-403e-8412-1bd2b09656bc)
+
 ## Feedback in the learning materials
 ## The link of learning material
 ## Picture of CBCA instroduction 
