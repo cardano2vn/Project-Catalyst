@@ -45,6 +45,39 @@ We received 32 feedbacks from students.
 ![image](https://github.com/user-attachments/assets/770b3246-bc54-403e-8412-1bd2b09656bc)
 
 ## Feedback in the learning materials
+### Feed back from Dr. Cao Thi Luyen:
+The course content covers important aspects of Blockchain technology,
+from basic knowledge, core concepts, popular platforms, consensus algorithms to new
+challenges and trends. This structure helps readers have a comprehensive overview of
+Blockchain.
+The clear division into chapters, each focusing on a specific topic, shows the
+systematic and logical presentation. This helps readers easily follow and grasp the
+information. Another plus point is that there are review exercises to reinforce the content
+of each chapter, helping learners easily review and systematize their knowledge. The
+
+document mentions new trends such as Blockchain 3.0, Green Blockchain, Zero-
+Knowledge Proof (ZKP),... showing the update and close adherence to the development of 
+technology.
+
+### Feed back from Dr. Bui Hong Nhung:
+This textbook is the first document in Vietnam to systematically and
+comprehensively systematize knowledge about Blockchain - a breakthrough
+technology that is strongly impacting many fields. In the context of increasing
+interest in Blockchain, but the source of official documents in Vietnamese is still
+limited, the compilation of this textbook is of special importance.
+➢ The course provides a solid theoretical foundation, both systematic and detailed,
+
+covering issues related to Blockchain with a scientific, easy-to-understand, easy-to-
+follow style; full illustrative examples; high pedagogy; ... clearly demonstrating the
+
+deep expertise as well as the efforts and dedication of the author team.
+➢ The content of each chapter is quite detailed and in-depth. To help readers
+easily access and grasp the focus, each chapter should have a brief
+introduction about the objectives, main content and connection with
+Blockchain technology (Chapter 3 already has).
+
+
+
 ## The link of learning material
 ## Picture of CBCA instroduction 
 **Offline class:**
