@@ -42,11 +42,6 @@ We received 32 feedbacks from students.
 
 ![image](https://github.com/user-attachments/assets/770b3246-bc54-403e-8412-1bd2b09656bc)
 
-## The link of open-source learning material
-
-The latest version of our text book has been publiced at [this link](https://github.com/cardano2vn/Project-Catalyst/blob/main/1200002%3ACardano%20blockchain%20courseware%20in%20Universities/Milestone4/Blockchain%20C%C6%A1%20B%E1%BA%A3n.pdf)
-
-
 
 ## Feedback in the learning materials
 ### Feed back from Dr. Cao Thi Luyen:
@@ -84,8 +79,14 @@ introduction about the objectives, main content and connection with
 Blockchain technology (Chapter 3 already has).
 ```
 
+## The link of open-source learning material
 
-## The link of learning material
+The latest version of our text book has been publiced at [this link](https://github.com/cardano2vn/Project-Catalyst/blob/main/1200002%3ACardano%20blockchain%20courseware%20in%20Universities/Milestone4/Blockchain%20C%C6%A1%20B%E1%BA%A3n.pdf)
+
+
+
+
+
 ## Picture of CBCA instroduction 
 **Offline class:**
 ![20250322_170646](https://github.com/user-attachments/assets/16978c35-47ae-4371-931a-1f0cfc821d76)
@@ -109,7 +110,7 @@ Here are recordings of our meetings:
 - Date: [Mar 16, 2025](https://youtu.be/yjd0qBYECAA)
 
 - Date: [Mar 30, 2025](https://www.youtube.com/watch?v=CWwvP_kZVn8)
-
+## Link to our closeout report/closeout video
 - Link to final [closeout report](https://docs.google.com/document/d/1-iJKCbpMfPiUxWMg1tUfxiSEyEF-ovHbpUXYOmhNWqw/edit?usp=sharing)
 
 - Link to final [closeout video](https://youtu.be/JusVnIQW7ic)
