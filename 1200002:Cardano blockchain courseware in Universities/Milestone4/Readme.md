@@ -104,12 +104,12 @@ Blockchain technology (Chapter 3 already has).
 ## Meeting minutes/Recording  
 Here are recordings of our meetings:
 
-Date: [Mar 2, 2025](https://www.youtube.com/watch?v=I0zC5jvY084)
+- Date: [Mar 2, 2025](https://www.youtube.com/watch?v=I0zC5jvY084)
 
-Date: [Mar 16, 2025](https://youtu.be/yjd0qBYECAA)
+- Date: [Mar 16, 2025](https://youtu.be/yjd0qBYECAA)
 
-Date: [Mar 30, 2025](https://www.youtube.com/watch?v=CWwvP_kZVn8)
+- Date: [Mar 30, 2025](https://www.youtube.com/watch?v=CWwvP_kZVn8)
 
-Link to final closeout report
+- Link to final [closeout report](https://docs.google.com/document/d/1-iJKCbpMfPiUxWMg1tUfxiSEyEF-ovHbpUXYOmhNWqw/edit?usp=sharing)
 
-Link to final closeout video
+- Link to final [closeout video](https://youtu.be/JusVnIQW7ic)
