@@ -51,12 +51,12 @@ Contains the User Acceptance Testing document that covers test cases, results, a
 **Evidence**:  
 UAT phase 1 (Preprod): 
 - UAT Plan: [UAT Plan Document](https://drive.google.com/file/d/1PZdVjydXdGqW_XfMmx0EqrUhEQGLIGBq/view?usp=drive_link)
-- UAT spreadsheet: [UAT Tracking](https://docs.google.com/spreadsheets/d/1PMmRYqY3r_UxHDkztw9z5iPtW8iG7EDy/edit?gid=1322834047#gid=1322834047)
+- UAT spreadsheet: [UAT Tracking](#)
 - UAT results report: [UAT Results Report](https://drive.google.com/file/d/1SdtLDJsqCtbfgY9Tl9U9qfH0iq2JOQvd/view?usp=drive_link)
 
 UAT phase 2 (Mainnet): 
 - UAT Plan: [UAT Plan Document](https://drive.google.com/file/d/1-erG_sJDSllIO5gA7hkDh9Vs3j11ic9e/view?usp=drive_link)
-- UAT spreadsheet: [UAT Tracking](https://docs.google.com/spreadsheets/d/1dGvwj_-n6QMEFUamYV1GoYJzGcOPZwQe/edit?gid=1322834047#gid=1322834047)
+- UAT spreadsheet: [UAT Tracking](#)
 - UAT results report: [UAT Results Report](https://drive.google.com/file/d/112lsw1fVfbQoAKyXZIwSRJ-ecJH1aPZM/view?usp=drive_linkk)
 
 ---
@@ -105,7 +105,7 @@ This section provides all the records of weekly meetings that track the progress
 A final report that summarizes the entire project, including its objectives, progress, challenges, and final results.
 
 **Evidence**:  
-- Final Closeout Report: [Closeout Report]()
+- Final Closeout Report: [Closeout Report](#)
 
 ---
 
@@ -114,7 +114,7 @@ A final report that summarizes the entire project, including its objectives, pro
 The final video provides a comprehensive overview and demonstration of the project, its features, and its achievements.
 
 **Evidence**:  
-- Final Closeout Video: [Closeout Video]()
+- Final Closeout Video: [Closeout Video](#)
 
 ---
 
@@ -122,7 +122,7 @@ The final video provides a comprehensive overview and demonstration of the proje
 ## **10. Project management**  
 
 Regarding project management, all information related to reviewing pending tasks, planning, assigning tasks to team members, and resolving roadblocks will be updated in the following document: 
-- Project management link: [Project Management](https://docs.google.com/spreadsheets/d/1BZDGPv1d1MHMyX7ycNraAZght-hz44lT/edit?gid=1613824326#gid=1613824326)
+- Project management link: [Project Management](#)
 
 
 ---
