@@ -31,7 +31,7 @@ Lists all the relevant pull requests related to updates made during this milesto
 
 **Evidence**:  
 - All The Pull Requests on GitHub: [Pull Requests List](https://github.com/cardano2vn/cip68generator/pulls?q=is%3Aopen+is%3Apr)
-- Platfom Improvement Report: [Platform Improvement Report Link]()
+- Platfom Improvement Report: [Platform Improvement Report Link](https://drive.google.com/file/d/1pPlZ-xKKjC-a_NBajFxNNDc38W1yRpAW/view?usp=drive_link)
 
 ---
 
@@ -49,15 +49,15 @@ Provides the link to the deployed version of the application on the mainnet.
 Contains the User Acceptance Testing document that covers test cases, results, and user feedback to ensure that the application is ready for production deployment.
 
 **Evidence**:  
-UAT phase 1: 
-- UAT Plan: [Plan Docx]()
-- UAT spreadsheet: [UAT Tracking]()
-- UAT results report: [UAT Results Report]()
+UAT phase 1 (Preprod): 
+- UAT Plan: [UAT Plan Document](https://drive.google.com/file/d/1PZdVjydXdGqW_XfMmx0EqrUhEQGLIGBq/view?usp=drive_link)
+- UAT spreadsheet: [UAT Tracking](https://docs.google.com/spreadsheets/d/1PMmRYqY3r_UxHDkztw9z5iPtW8iG7EDy/edit?gid=1322834047#gid=1322834047)
+- UAT results report: [UAT Results Report](https://drive.google.com/file/d/1SdtLDJsqCtbfgY9Tl9U9qfH0iq2JOQvd/view?usp=drive_link)
 
-UAT phase 2: 
-- UAT Plan: [Plan Docx]()
-- UAT spreadsheet: [UAT Tracking]()
-- UAT results report: [UAT Results Report]()
+UAT phase 2 (Mainnet): 
+- UAT Plan: [UAT Plan Document](https://drive.google.com/file/d/1-erG_sJDSllIO5gA7hkDh9Vs3j11ic9e/view?usp=drive_link)
+- UAT spreadsheet: [UAT Tracking](https://docs.google.com/spreadsheets/d/1dGvwj_-n6QMEFUamYV1GoYJzGcOPZwQe/edit?gid=1322834047#gid=1322834047)
+- UAT results report: [UAT Results Report](https://drive.google.com/file/d/1TEuWK5MkDgbl-VED8Ct75hUx7AJuVf10/view?usp=drive_link)
 
 ---
 
