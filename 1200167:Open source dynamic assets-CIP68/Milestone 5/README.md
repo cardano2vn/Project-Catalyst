@@ -105,7 +105,7 @@ This section provides all the records of weekly meetings that track the progress
 A final report that summarizes the entire project, including its objectives, progress, challenges, and final results.
 
 **Evidence**:  
-- Final Closeout Report: [Closeout Report]
+- Final Closeout Report: [Closeout Report](https://docs.google.com/document/d/1k6-9dCzVZ5_Y8O3T9ACMi3VqoV8fpeuy57iwKpjzIgI/edit?usp=sharing)
 
 ---
 
@@ -114,7 +114,7 @@ A final report that summarizes the entire project, including its objectives, pro
 The final video provides a comprehensive overview and demonstration of the project, its features, and its achievements.
 
 **Evidence**:  
-- Final Closeout Video: [Closeout Video]
+- Final Closeout Video: [Closeout Video](https://youtu.be/v6QyOaXKy1A)
 ---
 
 
