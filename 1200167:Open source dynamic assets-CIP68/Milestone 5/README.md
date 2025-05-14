@@ -121,7 +121,7 @@ The final video provides a comprehensive overview and demonstration of the proje
 ## **10. Project management**  
 
 Regarding project management, all information related to reviewing pending tasks, planning, assigning tasks to team members, and resolving roadblocks will be updated in the following document: 
-- Project management link: [Project Management]
+- Project management link: [Project Management](https://docs.google.com/spreadsheets/d/1BZDGPv1d1MHMyX7ycNraAZght-hz44lT/edit?gid=1613824326#gid=1613824326)
 
 
 ---
